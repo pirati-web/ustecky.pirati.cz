@@ -1,0 +1,26 @@
+{
+  "name": "opensans-googlefont",
+  "license": "APACHE2",
+  "authors": [
+    "Steve Matteson"
+  ],
+  "homepage": "https://fonts.google.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google-fonts-bower/opensans-bower.git"
+  },
+  "description": "Open Sans font",
+  "keywords": [
+    "font",
+    "SANS_SERIF"
+  ],
+  "_release": "bcac718b7c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bcac718b7cc1299ca958c365193959ae4ff7d949"
+  },
+  "_source": "https://github.com/google-fonts-bower/opensans-bower.git",
+  "_target": "*",
+  "_originalSource": "opensans-googlefont"
+}

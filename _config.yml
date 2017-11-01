@@ -1,0 +1,79 @@
+title: Pirátská strana Ústecký kraj
+email: to@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site
+
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
+sass:
+    style: compressed
+
+permalink: /:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  projects:
+    output: true
+    permalink: /pripoj-se/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+
+calendar:
+fb: https://www.facebook.com/pirati.ulk/
+tw: piratipraha
+
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-volby.gif
+    alt: Volební rozcestník
+    url: https://www.pirati.cz/volby
+  left-top:
+    text: Kontakt
+    url: kontakt
+    icon: fa fa-th-list
+  right-top:
+    text: Naši lidé
+    url: lide
+    icon: fa fa-newspaper-o u-rotate-345
+  left-bottom:
+    text: Regiony
+    url: regiony
+    icon:
+  right-bottom:
+    text: Připoj se
+    url: pripoj-se
+    icon: fa fa-bullhorn u-rotate-345
+
+emptyArray: []
