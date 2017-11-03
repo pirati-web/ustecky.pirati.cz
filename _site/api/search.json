@@ -132,8 +132,6 @@
   
     { "label": "", "value": "/api/"},
   
-    { "label": "", "value": "/regiony/p13/"},
-  
     { "label": "", "value": "/pripoj-se/kalendar/"},
   
     { "label": "", "value": "/assets/css/main.css"},
@@ -141,8 +139,6 @@
     { "label": "", "value": "/api/people.json"},
   
     { "label": "", "value": "/api/posts.json"},
-  
-    { "label": "", "value": "/regiony/praha6"},
   
     { "label": "", "value": "/api/search.json"},
   

@@ -52,8 +52,7 @@ defaults:   # defaults values for collection scope
 
 calendar:
 fb: https://www.facebook.com/pirati.ulk/
-tw: piratipraha
-
+tw: 
 title-page:
   big:
     foto: /assets/img/miscellaneous/featured-volby.gif
