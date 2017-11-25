@@ -5,7 +5,7 @@ fullname: Bc. František Navrkal  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
-img: people/frantisek-navrkal.png   # 165 x 220
+img: people/frantisek-navrkal.jpg   # 165 x 220
 description: předseda krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
 mail:
 - frantisek.navrkal@pirati.cz

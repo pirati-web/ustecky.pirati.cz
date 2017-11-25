@@ -11,19 +11,10 @@ layout: default
                         <div class="c-BasicPage-content">
                           <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                               <li class="c-simple-accordion-item  is-active" data-accordion-item="">
-                                  <a href="#zastupitele" class="c-simple-accordion-title">Zastupitelé</a>
-                                  <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ulk'"  | where_exp:"item","item.categories contains 'zast'" | sort:"ordpraha" %}
+                                  <a href="#cleni" class="c-simple-accordion-title">Členi</a>
+                                  <div id="cleni" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ulk'"  | where_exp:"item","item.categories contains 'ulk'" | sort:"ordulk" %}
                                         {% include people/list-2col.html param=team %}
-                                  </div>
-                              </li>
-                          </ul>
-                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item" data-accordion-item="">
-                                  <a href="#rp" class="c-simple-accordion-title">Krajské předsednictvo</a>
-                                  <div id="rp" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'ulk'" | where_exp:"item","item.categories contains 'pks'" | sort:"ordrp" %}
-                                      {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
                           </ul>

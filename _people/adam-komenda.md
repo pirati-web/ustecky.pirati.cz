@@ -1,11 +1,11 @@
 ---
 uid: adam.komenda
 name:     Adam Komenda  	# běžně používáné jméno
-fullname: Adam Komenda  	# jméno s tituly etc.
+fullname: Bc. Adam Komenda  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/adam-komenda.jpg   # 165 x 220
-description: FIXME            	# kratký popis, max 160 znaků
+description: Asistent Mikuláše Peksy, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail:
 - adam.komenda@pirati.cz
 mob:	
@@ -15,4 +15,6 @@ profiles:
   twitter: 
   flickr: 
 ---
+
+absolvoval bakalářské studium Politologie a evropská studia na Univerzitě Palackého v Olomouci. V současné době dokončuje magisterské studium politologie na Karlově univerzitě, zároveň studuje prvním rokem práva. Program Pirátské strany ho zaujal liberalizací internetu a zejména podporou svobod a lidských práv. Sám se angažuje v boji za práva pro LGBT komunitu. Jeho snem je jednou žít ve spravedlivé společnosti bez předsudků, kde se každý bude moci seberealizovat a žít spokojený život.
 

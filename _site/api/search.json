@@ -118,6 +118,8 @@
   
     { "label": "Ke stažení a sdílení", "value": "/download/"},
   
+    { "label": "", "value": "/funkcionari/"},
+  
     { "label": "", "value": "/pripoj-se/"},
   
     { "label": "", "value": "/aktuality/"},
@@ -130,6 +132,8 @@
   
     { "label": "", "value": "/"},
   
+    { "label": "O nás", "value": "/o-nas/"},
+  
     { "label": "", "value": "/api/"},
   
     { "label": "", "value": "/pripoj-se/kalendar/"},
@@ -141,6 +145,8 @@
     { "label": "", "value": "/api/posts.json"},
   
     { "label": "", "value": "/api/search.json"},
+  
+    { "label": "Stanovy České pirátské strany", "value": "/o-nas/stanovy"},
   
     { "label": "", "value": "/api/tags.json"},
   

@@ -67,7 +67,15 @@
                 <a href="{{'/aktuality/' | relative_url }}">Aktuality</a>
               </li>
               <li{% if page.url contains 'lide or page.url contains 'lide' or page.url contains 'regiony'%} class="is-active"{% endif %}>
-                <a href="{{ '/lide/' | relative_url }}">O nás</a>
+                <a href="{{ '/o-nas/' | relative_url }}">O nás</a>
+   		<ul class="menu vertical">
+                  <li{% if page.url contains 'lide'%} class="is-active"{% endif %}>
+                    <a href="{{ '/lide/' | relative_url }}">Naši lidé</a>
+                  </li>
+                  <li{% if page.url contains 'funkcionari'%} class="is-active"{% endif %}>
+                    <a href="{{ '/funkcionari/' | relative_url }}">Funkcionáři</a>
+                  </li>
+                </ul>
               </li>
               <li{% if page.url contains 'program' %} class="is-active"{% endif %}>
                 <a href="{{ '/regiony/' | relative_url }}">Regiony</a>

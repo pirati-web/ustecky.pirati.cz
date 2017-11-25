@@ -5,15 +5,15 @@ fullname: Tomáš Macháček	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/tomas-machacek.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: Člen KS Ústecký kraj         	# kratký popis, max 160 znaků
 mail:
 - tomas.machacek@pirati.cz
-mob:						  
+mob:
 profiles:
-  github:                 
-  facebook: 		  
-  twitter: 		  
-  flickr:     		
+  github: 
+  facebook:
+  twitter: 
+  flickr: 
 ---
 
 Tomáš Macháček narozen 4.Listopadu 1994 v Trutnově. Po 1. roce života žije v Ústí nad Labem.
