@@ -15,6 +15,7 @@ profiles:
   facebook: 		https://www.facebook.com/michaela.schwarzova.9	  
   twitter: 		  
   flickr:     		
+ordpks: 5
 ---
 
 Narodila se 26.listopadu 1985 a žije v Chomutově.

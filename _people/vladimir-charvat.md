@@ -6,16 +6,22 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 - zast
+- carousel
 img: people/vladimir-charvat.jpg   # 165 x 220
 description: Místopředseda krajského sdružení, zastupitel MO Ústí nad Labem - město            	# kratký popis, max 160 znaků
 mail:
 - vladimir.charvat@pirati.cz
-mob:				+420 606 029 692			  
+mob: +420 606 029 692 
 profiles:
-  github:       
-  facebook:     
-  twitter: 		  
-  flickr:		  
+  github: 
+  facebook: 
+  twitter: 
+  flickr:
+ordpks: 3
+carousel:
+  img: vladimir-charvat.jpg
+  text: |
+    <p><strong>Zastupitel MO Ústí nad Labem - město</strong>
 ---
  Narodil jsem se v únoru roku 1980 v Ústí nad Labem. V šesti letech jsem nastoupil do první třídy na 31. základní školu v Ústí nad Labem, kde jsem se však moc neohřál a od třetí třídy jsem přešel na 4. základní školu s rozšířenou výukou jazyků Elišky Krásnohorské taktéž v Ústí nad Labem.
 

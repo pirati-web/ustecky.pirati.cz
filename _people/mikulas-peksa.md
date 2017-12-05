@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - psp
 - ulk
 - pks
+- carousel
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: Poslanec, 4. místopředseda Pirátů, garant programového bodu Zahraničí             	# kratký popis, max 160 znaků
 mail:
@@ -21,6 +22,11 @@ profiles:
 ordga: 9
 ordrp: 5
 ordpsp: 4
+ordpks: 2
+carousel:
+  img: mikulas-peksa.jpg
+  text: |
+    <p><strong>Poslanec za Ústecký kraj</strong>
 ---
 
 Mikuláš Peksa (* 18. června 1986) je garantem zahraničního týmu Pirátů. Vystudoval Gymnázium Christiana Dopplera a Biofyziku na Matematicko-Fyzikální fakultě UK. V průběhu studia se specializoval na využití jaderné magnetické rezonance pro výzkum dynamiky tekutin v porézních materiálech. 

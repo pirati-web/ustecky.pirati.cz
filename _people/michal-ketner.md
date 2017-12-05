@@ -6,6 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rk
 - ulk
 - ga
+- pks
 img: people/michal-ketner.jpg   # 165 x 220
 description: Garant programového bodu Psychotropní látky, člen rozhodčí komise  # kratký popis, max 160 znaků
 mail:
@@ -16,8 +17,8 @@ profiles:
   facebook: 		https://www.facebook.com/michal.ketner.ol
   twitter: 
   flickr: 
-ordpraha: 2
 ordga: 4
+ordpks: 4
 ---
 
 Narodil se 10.12.1990, je člen Rozhodčí komise a Garantem programového bodu Psychotropní látky. 
