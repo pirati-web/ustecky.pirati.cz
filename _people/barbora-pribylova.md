@@ -14,7 +14,7 @@ profiles:
   github:
   facebook: https://www.facebook.com/barbora.k.pribova
   twitter:
-  linkedin:
+  flickr:
 ---
 
 Lidskoprávní aktivistka od roku 2013 v Pirátské straně. Vyznávám humánní přístup k člověku, svobodu slova a pohybu. Budím lidi k občanské zodpovědnosti a šířím osvětu v oblasti hodnot, dnes často opomíjených - toleranci odlišností a udržení svobod.
