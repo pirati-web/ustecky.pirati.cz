@@ -9,6 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 - carousel
+- media
 img: people/mikulas-peksa.jpg   # 165 x 220
 description: Poslanec, 4. místopředseda Pirátů, garant programového bodu Zahraničí             	# kratký popis, max 160 znaků
 mail:

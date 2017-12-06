@@ -7,6 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - zast
 - carousel
+- media
 img: people/vladimir-charvat.jpg   # 165 x 220
 description: Místopředseda krajského sdružení, zastupitel MO Ústí nad Labem - město            	# kratký popis, max 160 znaků
 mail:

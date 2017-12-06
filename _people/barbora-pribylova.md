@@ -1,11 +1,12 @@
---
+---
 uid: barbora.pribylova
 name:     Barbora Přibylová      		# běžně používáné jméno
 fullname: Barbora Přibylová Kočková		# jméno s tituly etc.
 category:					# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - koordinatori
-img: people/barbora-kockova.jpg           	# 165 x 220
+- verejnost
+img: people/barbora-pribylova.jpg           	# 165 x 220
 description: Koordinátor dobrovolníků pro Ústecký kraj # kratký popis, max 160 znaků
 mail:
 - barbora.pribylova@pirati.cz
