@@ -5,7 +5,7 @@ fullname: Tomáš Weidisch	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/tomas-weidisch.jpg   # 165 x 220
-description:              	# kratký popis, max 160 znaků
+description: Člen KS Ústecký kraj              	# kratký popis, max 160 znaků
 mail:
 - tomas.weidisch@pirati.cz
 mob:			  

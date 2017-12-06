@@ -5,7 +5,7 @@ fullname: Pavel Reimann 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/pavel-reimann.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
 - pavel.reimann@pirati.cz
 mob:			  

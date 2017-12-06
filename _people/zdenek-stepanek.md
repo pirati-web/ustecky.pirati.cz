@@ -5,7 +5,7 @@ fullname: Bc. Zdeněk Štěpánek	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/zdenek-stepanek.jpg   # 165 x 220
-description:              	# kratký popis, max 160 znaků
+description: Člen KS Ústecký kraj               	# kratký popis, max 160 znaků
 mail:
 - zdenek.stepanek@pirati.cz
 mob:			+420 774 415 269	

@@ -5,7 +5,7 @@ fullname: Ludmila Beutelová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/ludmila-beutelova.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
 - ludmila.beutelova@pirati.cz
 mob:			  

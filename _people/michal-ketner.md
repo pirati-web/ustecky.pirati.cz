@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - pks
 img: people/michal-ketner.jpg   # 165 x 220
-description: Garant programového bodu Psychotropní látky, člen rozhodčí komise  # kratký popis, max 160 znaků
+description: 3. místopředseda krajského sdružení Ústeckého kraje, garant programového bodu Psychotropní látky, člen rozhodčí komise  # kratký popis, max 160 znaků
 mail:
 - michal.ketner@pirati.cz
 mob:			  +420 722 225 444

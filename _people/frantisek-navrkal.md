@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - verejnost
 img: people/frantisek-navrkal.jpg   # 165 x 220
-description: předseda krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
+description: Předseda krajského sdružení Ústeckého kraje, předseda rozhodčí komise           	# kratký popis, max 160 znaků
 mail:
 - frantisek.navrkal@pirati.cz
 mob:			  +420 778 702 710

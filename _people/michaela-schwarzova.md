@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 img: people/michaela-schwarzova.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: 4. místopředsedkyně krajského sdružení Ústeckého kraje           	# kratký popis, max 160 znaků
 mail:
 - michaela.schwarzova@pirati.cz
 mob:			+420 775 150 494		  
