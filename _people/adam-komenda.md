@@ -4,6 +4,8 @@ name:     Adam Komenda  	# běžně používáné jméno
 fullname: Bc. Adam Komenda  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- koordinatori
+- proverejnost
 img: people/adam-komenda.jpg   # 165 x 220
 description: Asistent Mikuláše Peksy, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail:
