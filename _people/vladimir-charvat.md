@@ -4,7 +4,6 @@ name:     Vladimír Charvát	  	# běžně používáné jméno
 fullname: Vladimír Charvát	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- pks
 - zast
 - carousel
 - media
