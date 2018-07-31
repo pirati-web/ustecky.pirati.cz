@@ -6,9 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zast
 - carousel
-- media
 img: people/vladimir-charvat.jpg   # 165 x 220
-description: 2. místopředseda krajského sdružení Ústeckého kraje, zastupitel MO Ústí nad Labem - město            	# kratký popis, max 160 znaků
+description: zastupitel MO Ústí nad Labem - město            	# kratký popis, max 160 znaků
 mail:
 - vladimir.charvat@pirati.cz
 mob: +420 606 029 692 
