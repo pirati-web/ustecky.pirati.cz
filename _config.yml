@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site
 
 markdown: kramdown
-
+theme: jekyll-theme-pirati
 gems:
   - jekyll-paginate
   - jekyll-sitemap
