@@ -4,7 +4,6 @@ name:     Vojtěch.Karban	  	# běžně používáné jméno
 fullname: Vojtěch.Karban	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- pks
 img: people/vojtech-karban.jpg   # 165 x 220
 description: Člen KS Ústecký kraj              	# kratký popis, max 160 znaků
 mail:
