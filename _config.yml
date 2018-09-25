@@ -12,6 +12,9 @@ url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+administrator:
+  email: vaclav.zidek@pirati.cz # mail kam pujdou chybove vystupy
+
 theme: jekyll-theme-pirati
 
 sass:
