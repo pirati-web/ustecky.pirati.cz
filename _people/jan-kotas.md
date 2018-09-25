@@ -16,12 +16,8 @@ profiles:
   flickr:     		
 ---
 
- Narozen 30.11.1981 v Ústí nad Labem.
+ Žiji od roku 1981 v Ústí nad Labem. Polovinu svého dětství jsem prožil na Severní terase a po roce 1989 jsem se s rodiči přestěhoval na nově vybudované sídliště Dobětice. Po střední škole jsem pracoval v různých výrobních společnostech Black and Decker, Aisan Industry, AutoKabel, Gestamp, NCH, Losan. Mým pracovním oborem je plánování výroby, řízení logistických procesů a jejich auditování.
 
-Po střední škole elektrotechnické pracuje v mezinárodních výrobních společnostech jako jsou: Black Decker v Ústí nad Labem, AutoKabel v Krupce, Gestamp v Žateci, Aisan Industry v Lounech a NCH v Lovosicích, kde postupně získával zkušenosti v oblasti logistiky a plánování výroby v propojení a nastavování MRP a CMR systémů pro efektivní plánování výroby, skladové hospodářství, audity.
+  Mezi hlavními pilíře pro komunální volby nabízím zlepšení celkové dopravy ve městě a Severní terase. Je zde nutné pokračování v oprav silnic a chodníků. Reorganizace ulic s cílem vyčlenění nových parkovacích míst. Důležitou součástí života na sídlišti je prostředí a proto rád podpořím jakékoliv možnosti na rekultivaci přírody na sídlišti a v jeho okolí, přinést ještě více kontejnerů na třídění a motivační zapojení občanů třídit a chránit naše prostředí. Rád bych za svoje volební období stihl prosadit výstavbu nových městských bytů a také šetřil na neefektivním současném osvětlení a vyměnil za moderní technologie, jako jsou diodové světla s možností solárního dobíjení. 
 
-Pracoval také ve společnosti Losan Internet s.r.o. na pozici regionální vedoucí techniků a spolu podílel se na rozvoji internetové sítě v severočeském kraji. Z tohoto důvodu se momentálně vrací k oboru telekomunikací do společnosti O2.
-
-Svůj čas věnuje vyhledáváním informací o možných investorech a možnostech Ústeckého kraje v budování autonomních technologií a její výrobu, nebo podpora výstavby fenomenální Gigafactory od společnosti Tesla, kde jsou klíčové možnosti těžby lithia a jak jej maximálně využít pro svůj prospěch v Ústeckém kraji, kde zůstane 100% přidaná hodnota z výrobků. Podporuje také rychlodráhu a její rozvoj v Ústeckém kraji.
-
-Rád by přispěl na případné studie v růstu Ústeckého letiště a jeho budoucí komerční využití, nebo zavést pilotní školu se špičkovými simulátory, podpora leteckého klubu. 
+  Z pozice zastupitele Severní terasy nebudu moci přímo ovlivňovat chod a kvalitu krajské nemocnice, ale budu usilovat o každou podporu pro nemocnici, zaměstnance, služby a dosáhnutí statutu prestižní krajské nemocnici. Rád bych usiloval o podporu místního letiště s cílem vybudování malého moderního letiště s řízením provozu a tím přinesl zájem o letecký obor. 
