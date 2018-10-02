@@ -7,9 +7,9 @@ description: Pirátská strana v Ústeckém kraji je otevřená a ráda přivít
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 residence: yes
-contentSize: default
+contentSize: large
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-contentSize: even
+#contentSize: even
 ---
 
 ## Přidejte se
