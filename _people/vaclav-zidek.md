@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 - verejnost
 - kontaktni_osoba
-img: people/vaclav-zidek.jpg   # 165 x 220
+#img: people/vaclav-zidek.jpg   # 165 x 220
 description: Asistent Mikuláše Peksy, prokurista 1. Pirátské s.r.o.          	# kratký popis, max 160 znaků
 mail:
 - vaclav.zidek@pirati.cz
