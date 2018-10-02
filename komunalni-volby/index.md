@@ -10,3 +10,21 @@ V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
 Ústí na Labem - [Pro! Ústí](http://www.planprousti.cz/)
 
 Litoměřice - [Koalice Pirátů a Zelených](https://litomericko.pirati.cz/)
+
+Litvínov - [Litvínov do toho](https://www.litvinovdotoho.cz/inpage/kandiduji-za-nas/)
+
+Děčín - [Piráti Děčín](http://www.piratidecin.cz/kandidatka)
+
+Most - [Piráti a Zelení pro Most](http://piratiazelenipromost.cz/)
+
+Chomutov - [PRO! Chomutov](http://www.procv.cz/#kandidatka)
+
+Dubí - [Pro Dubí](https://www.facebook.com/PRO-Dub%C3%AD-2088015821455116)
+
+Varnsdorf - [SNK-ED]
+
+Kadaň - [Piráti Kadaň](http://www.piratikadan.cz/index.html#team)
+
+Žatec - [Piráti Žatec](https://www.facebook.com/PiratiZatec)
+
+Terezín - [Piráti Terezín]
