@@ -1,15 +1,88 @@
-title: Pirátská strana Ústecký kraj
-email: to@pirati.cz
+# Welcome to Jekyll!
+#
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
+
+title: Piráti - Ústecký kraj
+email: ustecko@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site
+keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site, e.g. http://example.com
 
+administrator:
+  email: vaclav.zidek@pirati.cz # mail kam pujdou chybove vystupy
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+organization:
+  name: Česka pirátská strana - Ústecký kraj
+  shortName: Piráti - Ústecký kraj
+  contactUid: vaclav.zidek
+  email: vaclav.zidek@pirati.cz
+  phone: +420 775 198 038
+  address: |
+    Pařížská 1290/5
+    400 01 Ústí nad Labem
+  residenceImg:
+  mapLink: https://www.google.cz/maps/place/SUPICE/@50.6612183,14.0344671,18.5z/data=!4m5!3m4!1s0x4709850183d101b7:0x9b56460616ed3188!8m2!3d50.6612787!4d14.0352704
+  redmineLink: https://redmine.pirati.cz/projects
+
+homepageBanner:
+  display: false
+  link: /komunalni-volby/
+  title: Komunální volby 2018
+  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
+  image:
+    default: path/to/img.jpg
+    mobile: path/to/img.jpg
+
+calendar:
+  # Get api key from Google Developer Console
+  apiKey: AIzaSyAXWWBxhDChm00CQv_BeK-WI_VuebYr9a8
+  title: Celostátní kalendář
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?src=uskpirati%40gmail.com&ctz=Europe%2FPrague/
+
+facebook:
+  loadSDK: true
+  profilePage:
+  appId: 496346277123749
+
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/jekyll-theme-pirati/
+  branch: master
+
+
+
+# Build settings
 markdown: kramdown
-
-gems:
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -17,24 +90,16 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - bower.json
-  - gulpfile.js
-  - node_modules
-  - bower_components
   - vendor
 
-sass:
-    style: compressed
-
-permalink: /:title.html
+permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
-  projects:
+  program:
     output: true
-    permalink: /pripoj-se/:path/
+    permalink: /program/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -42,37 +107,35 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "page"
-      rbar: "people, foto"
+      rbar: "foto"
   -
     scope:
-      path: "_teams"
+      path: "_program"
     values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
-
-calendar: https://calendar.google.com/calendar/embed?src=uskpirati%40gmail.com&ctz=Europe%2FPrague/
-fb: https://www.facebook.com/pirati.ulk/
-tw: 
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/featured-volby.gif
-    alt: Volební rozcestník
-    url: https://www.pirati.cz/volby
-  left-top:
-    text: Kontakt
-    url: kontakt
-    icon: fa fa-th-list
-  right-top:
-    text: Naši lidé
-    url: lide
-    icon: fa fa-newspaper-o u-rotate-345
-  left-bottom:
-    text: Regiony
-    url: regiony
-    icon:
-  right-bottom:
-    text: Připoj se
-    url: pripoj-se
-    icon: fa fa-bullhorn u-rotate-345
+      layout: "page"
+      rbar: "garant, program"
 
 emptyArray: []
+
+assets:
+  source_maps: false
+  compression: false
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-3.2.0/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
