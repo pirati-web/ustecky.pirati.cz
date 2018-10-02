@@ -4,7 +4,7 @@ name:     Jakub Chlupáček  	# běžně používáné jméno
 fullname: Jakub Chlupáček  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-img: people/jakub-chlupacek.jpg   # 165 x 220
+#img: people/jakub-chlupacek.jpg   # 165 x 220
 description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
 - jakub.chlupacek@pirati.cz
