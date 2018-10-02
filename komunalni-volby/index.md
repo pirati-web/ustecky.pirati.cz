@@ -1,11 +1,10 @@
 ---
 layout: communal-elections
-title: Komunální volby v Praze
-campaignCategoryUid: praha2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+title: Komunální volby v Ústeckém kraji
+campaignCategoryUid: usk2018
+#candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-Úvodní text např. vysvětlení koalice, podpory.
+V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
 
-> "Vyhrajeme volby," říká leader.
 
