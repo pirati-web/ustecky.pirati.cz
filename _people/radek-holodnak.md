@@ -5,7 +5,7 @@ fullname: Bc. Radek Holodňák	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/radek-holodnak.jpg   # 165 x 220
-description: Předseda místního sdružení Žatec-Kadaň, člen KS Ústecký kraj             	# kratký popis, max 160 znaků
+description: Předseda MS Žatec-Kadaň             	# kratký popis, max 160 znaků
 mail:
 - radek.holodnak@pirati.cz
 mob:			+420 721 285 481			  
