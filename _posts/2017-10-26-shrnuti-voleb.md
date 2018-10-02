@@ -10,9 +10,9 @@ image: posts/ulk_dekujeme.jpg
 ---
 
          
-*Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje*
+#Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje*
 
-**Tento víkend proběhly volby do Poslanecké sněmovny České republiky. Česká pirátská strana v nich dosáhla zásadního úspěchu v podobě celkově třetího místa s počtem 546393 odevzdaných hlasů, což odpovídá 10,79 % platných hlasů. V Ústeckém kraji sice výsledek nebyl tak vysoký jako v ostatních krajích, ale i tak byl velmi pozitivní pro naši další práci. Piráti skončili v těsném závěsu za komunisty a občanskými demokraty  na 5. místě s 28004 hlasů, což nakonec stačilo na 8,24 %. Díky tomu nás bude bude ve sněmovně reprezentovat krajský volební lídr [:lide:mikulas_peksa](/lide/mikulas_peksa). ** 
+**Tento víkend proběhly volby do Poslanecké sněmovny České republiky. Česká pirátská strana v nich dosáhla zásadního úspěchu v podobě celkově třetího místa s počtem 546393 odevzdaných hlasů, což odpovídá 10,79 % platných hlasů. V Ústeckém kraji sice výsledek nebyl tak vysoký jako v ostatních krajích, ale i tak byl velmi pozitivní pro naši další práci. Piráti skončili v těsném závěsu za komunisty a občanskými demokraty  na 5. místě s 28004 hlasů, což nakonec stačilo na 8,24 %. Díky tomu nás bude bude ve sněmovně reprezentovat krajský volební lídr [Mikuláš Peksa](/lide/mikulas_peksa).
 
 
  Za tyto hlasy všem voličům děkujeme a vzkazujeme nejen jim, že pro Pirátskou stranu je tento výsledek velkou výzvou, aby ukázala, že není recesistickou partou lidí ani protestní či chcete-li protisystémovou stranou, za kterou byla ještě donedávna považována, ale liberálně demokratickou stranou, která je od počátku  stálá ve svých názorech, ve svém směřování i ve své politice. Můžeme pozitivně ovlivnit politickou situaci v České republice svým  liberálním a proevropským směřováním. Naše místo je ve středu Evropy. 
