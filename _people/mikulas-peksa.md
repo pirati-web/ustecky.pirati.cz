@@ -11,7 +11,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - carousel
 - media
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: 1. místopředseda krajského sdružení Ústeckého kraje, poslanec, 4. místopředseda Pirátů, garant programového bodu Zahraničí             	# kratký popis, max 160 znaků
+description: 1. místopředseda KS Ústeckého kraje, poslanec, 4. místopředseda Pirátů # kratký popis, max 160 znaků
 mail:
 - mikulas.peksa@pirati.cz
 mob:			  
