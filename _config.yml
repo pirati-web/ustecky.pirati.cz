@@ -45,7 +45,7 @@ homepageBanner:
 calendar:
   # Get api key from Google Developer Console
   apiKey: AIzaSyAXWWBxhDChm00CQv_BeK-WI_VuebYr9a8
-  title: Celostátní kalendář
+  title: Pirátský kalendář
   id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?src=uskpirati%40gmail.com&ctz=Europe%2FPrague/
 
