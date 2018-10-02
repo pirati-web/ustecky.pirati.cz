@@ -1,5 +1,8 @@
 ---
 layout: contacts
+rbar: 
+   - fb
+   - calendar
 description: Pirátská strana v Ústeckém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
