@@ -1,7 +1,7 @@
 ---
 date: 2017-10-26
 category: blog
-tags: tag1 tag2
+tags: volby parlament Piráti
 layout: post
 title: Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje
 author: Piráti Ústecký kraj
