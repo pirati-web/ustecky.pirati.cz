@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 - verejnost
 img: people/adam-komenda.jpg   # 165 x 220
-description: Asistent Mikuláše Peksy, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: Asistent Mikuláše Peksy          	# kratký popis, max 160 znaků
 mail:
 - adam.komenda@pirati.cz
 mob:	
