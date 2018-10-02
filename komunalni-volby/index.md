@@ -5,7 +5,7 @@ campaignCategoryUid: usk2018
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
+## V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
 
 Ústí na Labem - [Pro! Ústí](http://www.planprousti.cz/)
 
