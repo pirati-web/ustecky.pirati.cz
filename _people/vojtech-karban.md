@@ -6,7 +6,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 img: people/vojtech-karban.jpg   # 165 x 220
-description: 4. místopředsedkyně krajského sdružení Ústeckého kraje, Člen KS Ústecký kraj              	# kratký popis, max 160 znaků
+description: 4. místopředseda KS Ústeckého kraje              	# kratký popis, max 160 znaků
 mail:
 - vojtech.karban@pirati.cz
 mob:			  
