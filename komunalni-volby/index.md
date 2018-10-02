@@ -7,4 +7,6 @@ campaignCategoryUid: usk2018
 
 V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
 
+Ústí na Labem - [Pro! Ústí](http://www.planprousti.cz/)
 
+Litoměřice - [Koalice Pirátů a Zelených](https://litomericko.pirati.cz/)
