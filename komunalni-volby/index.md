@@ -27,4 +27,4 @@ Kadaň - [Piráti Kadaň](http://www.piratikadan.cz/index.html#team)
 
 Žatec - [Piráti Žatec](https://www.facebook.com/PiratiZatec)
 
-Terezín - [Změna pro Terezín s podporou Pirátů]
+Terezín - [Změna pro Terezín s podporou Pirátů](https://www.facebook.com/ZmenaProTerezinPirati/)
