@@ -4,8 +4,14 @@ title: Komunální volby v Ústeckém kraji
 campaignCategoryUid: usk2018
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách:</h1>
+          </header>
 
-## V Ústeckém kraji máme tyto kandidáty, podpořte je ve volbách.
 
 Ústí na Labem - [Pro! Ústí](http://www.planprousti.cz/)
 
@@ -28,3 +34,7 @@ Kadaň - [Piráti Kadaň](http://www.piratikadan.cz/index.html#team)
 Žatec - [Piráti Žatec](https://www.facebook.com/PiratiZatec)
 
 Terezín - [Změna pro Terezín s podporou Pirátů](https://www.facebook.com/ZmenaProTerezinPirati/)
+</div>
+    </div>
+  </div>
+</div>
