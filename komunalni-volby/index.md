@@ -1,5 +1,5 @@
 ---
-layout: communal-elections
+layout: default
 title: Komunální volby v Ústeckém kraji
 campaignCategoryUid: usk2018
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
@@ -27,4 +27,4 @@ Kadaň - [Piráti Kadaň](http://www.piratikadan.cz/index.html#team)
 
 Žatec - [Piráti Žatec](https://www.facebook.com/PiratiZatec)
 
-Terezín - [Piráti Terezín]
+Terezín - [Změna pro Terezín s podporou Pirátů]
