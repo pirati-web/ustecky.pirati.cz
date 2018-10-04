@@ -1,5 +1,5 @@
 ---
-layout: komunalni-volby
+layout: communal-elections
 title: Komunální volby v Ústeckém kraji
 campaignCategoryUid: usk2018
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
