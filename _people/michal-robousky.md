@@ -4,12 +4,10 @@ name:     Michal Robousky  	# běžně používáné jméno
 fullname: Michal Robousky  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- koordinatori
-- verejnost
 img: people/michal-robousky.jpg   # 165 x 220
 description: Člen KS Ústecký kraj          	# kratký popis, max 160 znaků
 mail:
-- adam.komenda@pirati.cz
+- michal.robousky@pirati.cz
 mob:	
 profiles:
   github:
