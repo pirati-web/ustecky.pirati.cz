@@ -4,7 +4,7 @@ name:     František Kindl  	# běžně používáné jméno
 fullname: František Kindl  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-#img: people/frantisek-kindl.jpg   # 165 x 220
+img: people/frantisek-kindl.jpg   # 165 x 220
 description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
 - frantisek.kindl@pirati.cz
