@@ -16,6 +16,9 @@ main:
   - link: /lide/
     name: O nás
     match: lide
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
