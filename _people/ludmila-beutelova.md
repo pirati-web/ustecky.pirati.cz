@@ -4,7 +4,7 @@ name:     Ludmila Beutelová  	# běžně používáné jméno
 fullname: Ludmila Beutelová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- zastupitel
+- zastup
 img: people/ludmila-beutelova.jpg   # 165 x 220
 description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
