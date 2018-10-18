@@ -5,7 +5,7 @@ fullname: Bc. Petr Zdobinský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
-#img: peoplepetr-zdobinsky.jpg   # 165 x 220
+#img: people/petr-zdobinsky.jpg   # 165 x 220
 description: podnikatel             	# kratký popis, max 160 znaků
 mail:
 - 
