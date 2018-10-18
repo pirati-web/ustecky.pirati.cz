@@ -1,14 +1,14 @@
 ---
-uid: ales.stibal
-name:     Aleš Stibal	  	# běžně používáné jméno
-fullname: Aleš Stibal	  	# jméno s tituly etc.
+uid: martin.strnad
+name:     Martin Strnad	  	# běžně používáné jméno
+fullname: Martin Strnad	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
-img: people/ales-stibal.jpg   # 165 x 220
+img: people/martin-strnad.jpg   # 165 x 220
 description: Člen KS Ústecký kraj              	# kratký popis, max 160 znaků
 mail:
-- ales.stibal@pirati.cz
+-
 mob:
 profiles:
   github:
