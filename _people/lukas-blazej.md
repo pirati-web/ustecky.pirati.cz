@@ -4,6 +4,7 @@ name:     Lukáš Blažej  	# běžně používáné jméno
 fullname: Lukáš Blažej	 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- zastup
 img: people/lukas-blazej.jpg   # 165 x 220
 description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
