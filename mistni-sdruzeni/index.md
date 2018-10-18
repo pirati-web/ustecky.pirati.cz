@@ -1,5 +1,5 @@
 ---
-layout: members
+layout: contacts
 title: Místní Sdružení v Ústeckém kraji
 campaignCategoryUid: uskMS
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
