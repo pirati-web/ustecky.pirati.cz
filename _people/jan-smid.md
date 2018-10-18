@@ -5,7 +5,7 @@ fullname: Mgr. Jan Šmíd	  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
-#img: people/jan-smid.jpg   # 165 x 220
+img: people/jan-smid.jpg   # 165 x 220
 description: podplukovník NCOZ             	# kratký popis, max 160 znaků
 mail:
 - 
