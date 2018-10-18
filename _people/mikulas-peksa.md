@@ -5,13 +5,13 @@ fullname: Mgr.Mikuláš Peksa  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - rp
-- psp
+- poslan
 - ulk
 - pks
 - carousel
 - media
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: poslanec, místopředseda Pirátů # kratký popis, max 160 znaků
+description: 4. místopředseda Pirátů # kratký popis, max 160 znaků
 mail:
 - mikulas.peksa@pirati.cz
 mob:			  
