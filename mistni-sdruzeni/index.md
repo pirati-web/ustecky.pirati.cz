@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
-title: Komunální volby v Ústeckém kraji
-campaignCategoryUid: usk2018
+title: Místní Sdružení v Ústeckém kraji
+campaignCategoryUid: uskMS
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
@@ -15,4 +15,4 @@ MS Kadaň - [Stránky MS](http://www.piratikadan.cz/)
 
 MS Žatec - [Stránky MS](https://www.facebook.com/PiratiZatec)
 
-MS Litoměřice - [Stránky MS](https://litomericko.pirati.cz
+MS Litoměřice - [Stránky MS](https://litomericko.pirati.cz)
