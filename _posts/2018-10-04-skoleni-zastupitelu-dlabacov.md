@@ -1,5 +1,5 @@
 ---
-category: CLANKY
+category: blog
 title: Ústečtí Piráti školili budoucí zastupitele
 date: 2018-10-04T9:00:00.000Z
 author: Lukáš Blažej
