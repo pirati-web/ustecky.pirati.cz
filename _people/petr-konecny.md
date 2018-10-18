@@ -1,4 +1,5 @@
 ---
+uid: petr.konecny
 name:     Petr Konečný  	# běžně používáné jméno
 fullname: Petr Konečný	 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
