@@ -1,3 +1,4 @@
+---
 uid: linda.berchinova
 name:     Linda Berchinová	  	# běžně používáné jméno
 fullname: Linda Berchinová	  	# jméno s tituly etc.
