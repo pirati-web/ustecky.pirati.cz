@@ -6,7 +6,7 @@ layout: post
 title: Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje
 author: Piráti Ústecký kraj
 authorId: linda.berchinova    # uid nekoho z _people (nepoviné)
-#image: posts/ulk_dekujeme.jpg
+image: posts/volebni-stab.jpg
 ---
 
          
