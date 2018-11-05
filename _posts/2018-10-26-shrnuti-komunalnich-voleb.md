@@ -15,7 +15,7 @@ image: posts/volebni-stab.jpg
 Komunální volby jsou za námi a jejich výsledky jsou pro ústecké Piráty velmi pozitivní. Do
 komunální politiky se nám podařilo dostat 33 zastupitelů z kandidátních listin podpořených Piráty.
 V některých městech stále probíhá jednání o povolebním uskupení, některé výsledky už jsou ale jisté.
-Děčínské zástupce Pirátské strany máme dva, [Jana Šmída]: https://ustecky.pirati.cz/lide/jan-smid s Petrem Zdobinským, kteří se s
+Děčínské zástupce Pirátské strany máme dva, [Jana Šmída](https://ustecky.pirati.cz/lide/jan-smid) s Petrem Zdobinským, kteří se s
 8,86 % platných hlasů odeberou do opozice. Stejný počet tentokrát zástupkyň Pirátů uspěl i v Kadani.
 Necelých sedm procent platných hlasů dostalo Janu Hladovou a Hanu Vodrážkovou do zastupitelstva,
 ty tak získaly zástupce v každé komisi a ve výborech.
