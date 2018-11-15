@@ -41,7 +41,7 @@ Toto jsou jména zástupců České pirátské strany, kteří budou ve svých m
 bojovat a prosazovat, co voličům slíbili. Děkujeme všem příznivcům za hlasy a pomoc v komunálních
 volbách. Bez vás bychom nebyli tam, kde jsme.
 
-![Mapa Pirátů](posts/mapa-pirati.jpeg)
+![Mapa Pirátů](https://ustecky.pirati.cz/assets/img/posts/mapa-pirati.jpeg)
 
 
 
