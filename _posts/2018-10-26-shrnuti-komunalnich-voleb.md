@@ -6,7 +6,7 @@ layout: post
 title: Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje
 author: Piráti Ústecký kraj
 authorId: linda.berchinova    # uid nekoho z _people (nepoviné)
-image: posts/volebni-stab.jpg
+image: posts/mapa-koalice.jpeg
 ---
 
          
@@ -40,6 +40,8 @@ v jednání.
 Toto jsou jména zástupců České pirátské strany, kteří budou ve svých městech a obvodech
 bojovat a prosazovat, co voličům slíbili. Děkujeme všem příznivcům za hlasy a pomoc v komunálních
 volbách. Bez vás bychom nebyli tam, kde jsme.
+
+![Alt text](post/mapa-pirati.jpeg)
 
 
 
