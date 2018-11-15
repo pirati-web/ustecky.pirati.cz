@@ -1,5 +1,5 @@
 ---
-uid: ludmila.beutelová
+uid: ludmila.beutelova
 name:     Ludmila Beutelová  	# běžně používáné jméno
 fullname: Ludmila Beutelová 	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
