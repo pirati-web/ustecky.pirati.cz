@@ -3,7 +3,7 @@ date: 2018-10-26
 category: blog
 tags: volby komunalni Piráti
 layout: post
-title: Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje
+title: Shrnutí voleb 2018 očima Pirátů z Ústeckého kraje
 author: Piráti Ústecký kraj
 authorId: linda.berchinova    # uid nekoho z _people (nepoviné)
 image: posts/mapa-koalice.jpeg
