@@ -14,7 +14,8 @@ profiles:
   github:       
   facebook:     
   twitter: 		  
-  flickr:		  
+  flickr:	
+ordpks: 5
 ---
 
 Vojtěch Karban (* 11.ledna.1979) Pochází z města Ústí nad Labem Vystudoval Střední školu Managementu a služeb s maturitou
