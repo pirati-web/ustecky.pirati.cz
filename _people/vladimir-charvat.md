@@ -1,7 +1,9 @@
 ---
 uid: vladimir.charvat
 name:     Vladimír Charvát	  	# běžně používáné jméno
-fullname: Vladimír Charvát	  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zast

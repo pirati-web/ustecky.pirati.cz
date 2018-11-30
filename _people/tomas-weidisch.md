@@ -1,7 +1,9 @@
 ---
 uid: tomas.weidisch
 name:     Tomáš Weidisch	  	# běžně používáné jméno
-fullname: Tomáš Weidisch	  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/tomas-weidisch.jpg   # 165 x 220

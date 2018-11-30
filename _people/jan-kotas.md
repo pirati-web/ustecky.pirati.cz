@@ -1,7 +1,9 @@
 ---
 uid: jan.kotas
 name:     Jan Kotas  	# běžně používáné jméno
-fullname: Jan Kotas  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/jan-kotas.jpg   # 165 x 220

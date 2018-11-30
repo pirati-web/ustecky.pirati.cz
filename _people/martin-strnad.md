@@ -1,7 +1,9 @@
 ---
 uid: martin.strnad
 name:     Martin Strnad	  	# běžně používáné jméno
-fullname: Martin Strnad	  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/martin-strnad.jpg   # 165 x 220

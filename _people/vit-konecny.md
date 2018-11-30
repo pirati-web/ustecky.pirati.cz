@@ -1,7 +1,9 @@
 ---
 uid: vit.konecny
 name:     Vít Konečný	  	# běžně požžíváné jméno
-fullname: Vít Konečný	  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk	
 #img: people/vit-konecny.jpg 		# 165 x 220

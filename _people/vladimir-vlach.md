@@ -1,7 +1,9 @@
 ---
 uid: vladimir.vlach
 name:     Vladimír Vlach 	# běžně používáné jméno
-fullname: Vladimír Vlach  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/vladimir-vlach.jpg   # 165 x 220

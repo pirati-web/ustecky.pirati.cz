@@ -1,7 +1,9 @@
 ---
 uid: jan.maixner
 name:     Jan Maixner  	# běžně používáné jméno
-fullname: Jan Maixner  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/jan-maixner.jpg   # 165 x 220

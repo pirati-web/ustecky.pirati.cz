@@ -1,7 +1,9 @@
 ---
 uid: frantisek.navrkal
 name:     František Navrkal  	# běžně používáné jméno
-fullname: Bc. František Navrkal  	# jméno s tituly etc.
+titles:
+  before: Bc. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks

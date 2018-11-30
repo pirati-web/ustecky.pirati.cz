@@ -1,7 +1,9 @@
 ---
 uid: linda.berchinova
 name:     Linda Berchinová	  	# běžně používáné jméno
-fullname: Linda Berchinová	  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/linda-berchinova.jpg   # 165 x 220

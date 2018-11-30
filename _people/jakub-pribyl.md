@@ -1,7 +1,9 @@
 ---
 uid: jakub.pribyl
 name:     Jakub Přibyl	  	# běžně používáné jméno
-fullname: Jakub Přibyl	  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup

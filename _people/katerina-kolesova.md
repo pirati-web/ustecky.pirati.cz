@@ -1,7 +1,9 @@
 ---
 uid: katerina.kolesova
 name:     Kateřina Kolešová  	# běžně používáné jméno
-fullname: Kateřina Kolešová 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/katerina-kolesova.jpg   # 165 x 220

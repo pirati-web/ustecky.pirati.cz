@@ -1,7 +1,9 @@
 ---
 uid: zdenek.stepanek
 name:     Zdeněk Štěpánek	  	# běžně používáné jméno
-fullname: Bc. Zdeněk Štěpánek	  	# jméno s tituly etc.
+titles:
+  before: BC. 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/zdenek-stepanek.jpg   # 165 x 220

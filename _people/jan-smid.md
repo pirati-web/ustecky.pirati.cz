@@ -1,7 +1,9 @@
 ---
 uid: jan.smid
 name:     Jan Šmíd	  	# běžně používáné jméno
-fullname: Mgr. Jan Šmíd	  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastup
 img: people/jan-smid.jpg   # 165 x 220

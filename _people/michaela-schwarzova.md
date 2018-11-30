@@ -1,7 +1,9 @@
 ---
 uid: michaela.schwarzova
 name:     Michaela Schwarzová  	# běžně používáné jméno
-fullname: Michaela Schwarzova	 	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks

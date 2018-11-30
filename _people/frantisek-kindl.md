@@ -1,7 +1,9 @@
 ---
 uid: frantisek.kindl
 name:     František Kindl  	# běžně používáné jméno
-fullname: František Kindl  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/frantisek-kindl.jpg   # 165 x 220

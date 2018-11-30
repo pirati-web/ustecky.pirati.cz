@@ -1,7 +1,9 @@
 ---
 uid: michal.robousky
 name:     Michal Robousky  	# běžně používáné jméno
-fullname: Michal Robousky  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/michal-robousky.jpg   # 165 x 220

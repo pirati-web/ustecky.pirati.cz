@@ -1,7 +1,9 @@
 ---
 uid: tomas.rubinstein
 name: Tomáš Rubinstein  	# běžně používáné jméno
-fullname:  Tomáš Rubinstein # jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
 ordclenove: 5

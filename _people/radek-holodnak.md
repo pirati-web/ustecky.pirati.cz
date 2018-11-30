@@ -1,7 +1,9 @@
 ---
 uid: radek.holodnak
 name:     Radek Holodňák  	# běžně používáné jméno
-fullname: Bc. Radek Holodňák	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/radek-holodnak.jpg   # 165 x 220

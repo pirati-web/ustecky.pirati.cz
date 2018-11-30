@@ -1,7 +1,9 @@
 ---
 uid: ondrej.marek
 name:     Ondřej Marek  	# běžně používáné jméno
-fullname: Ondřej Marek  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 #img: people/ondrej-marek.jpg   # 165 x 220

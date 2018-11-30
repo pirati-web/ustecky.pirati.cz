@@ -1,7 +1,9 @@
 ---
 uid: vaclav.zidek
 name:     Václav Židek  	# běžně používáné jméno
-fullname: Václav Židek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - koordinatori

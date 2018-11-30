@@ -1,7 +1,9 @@
 ---
 uid: petr.zdobinsky
 name:     Petr Zdobinský	  	# běžně používáné jméno
-fullname: Bc. Petr Zdobinský  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup

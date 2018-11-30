@@ -1,7 +1,9 @@
 ---
 uid: jakub.chlupacek
 name:     Jakub Chlupáček  	# běžně používáné jméno
-fullname: Jakub Chlupáček  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 #img: people/jakub-chlupacek.jpg   # 165 x 220

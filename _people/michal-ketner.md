@@ -1,7 +1,9 @@
 ---
 uid: michal.ketner
 name:     Michal Ketner  	# běžně používáné jméno
-fullname: Michal Ketner  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rk
 - ulk

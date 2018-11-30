@@ -1,7 +1,9 @@
 ---
 uid: tomas.machacek
 name:     Tomáš Macháček  	# běžně používáné jméno
-fullname: Tomáš Macháček	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup

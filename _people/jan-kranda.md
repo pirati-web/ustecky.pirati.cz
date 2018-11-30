@@ -1,7 +1,9 @@
 ---
 uid: jan.kranda
 name:     Jan Kranda  	# běžně používáné jméno
-fullname: Mgr.Jan Kranda  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup

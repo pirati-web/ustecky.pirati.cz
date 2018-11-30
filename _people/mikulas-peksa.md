@@ -1,7 +1,9 @@
 ---
 uid: mikulas.peksa
 name:     Mikuláš Peksa  	# běžně používáné jméno
-fullname: Mgr.Mikuláš Peksa  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 - rp

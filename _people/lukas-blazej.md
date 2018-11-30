@@ -1,7 +1,9 @@
 ---
 uid: lukas.blazej
 name:     Lukáš Blažej  	# běžně používáné jméno
-fullname: Lukáš Blažej	 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup

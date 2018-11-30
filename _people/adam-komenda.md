@@ -1,7 +1,9 @@
 ---
 uid: adam.komenda
 name:     Adam Komenda  	# běžně používáné jméno
-fullname: Bc. Adam Komenda  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - koordinatori

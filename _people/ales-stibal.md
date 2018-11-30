@@ -1,7 +1,9 @@
 ---
 uid: ales.stibal
 name:     Aleš Stibal	  	# běžně používáné jméno
-fullname: Aleš Stibal	  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
