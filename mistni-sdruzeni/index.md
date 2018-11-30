@@ -5,7 +5,11 @@ campaignCategoryUid: uskMS
 #candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-## V Ústeckém kraji jsou tyto místní sdružení, kontaktujte je.
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">
+    V Ústeckém kraji jsou tyto místní sdružení, kontaktujte je.
+  </h1>
+</div>
 
 MS Ústí na Labem - [Stránky MS](http://usti.pirati.cz/)
 
