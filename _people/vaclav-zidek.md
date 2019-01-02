@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinatori
 - verejnost
 - kontaktni_osoba
-#img: people/vaclav-zidek.jpg   # 165 x 220
+img: people/vaclav-zidek.jpg   # 165 x 220
 description: Krajský koordinátor          	# kratký popis, max 160 znaků
 mail:
 - vaclav.zidek@pirati.cz
