@@ -1,6 +1,6 @@
 ---
 uid: jan.kunc
-name:     Jan kunc  	# běžně používáné jméno
+name:     Jan Kunc  	# běžně používáné jméno
 titles:
   before:
   after:
