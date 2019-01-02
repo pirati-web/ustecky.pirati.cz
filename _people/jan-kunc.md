@@ -17,6 +17,6 @@ profiles:
   twitter: 
   flickr: 
 ---
-Honza vystudoval Ekonomické lyceum v Mostě a v současné době se věnuje práci s počítači a videoprodukci. 🖖
+Honza vystudoval Ekonomické lyceum v Mostě a v současné době se věnuje práci s počítači a videoprodukci.
 
-Několik slov Honzy 👇 „Rozhodl jsem se kandidovat, protože nesnáším levárny a bohužel v Mostě se jich děje mnoho. A to je také hlavní téma, kterému bych se chtěl v zastupitelstvu věnovat. Jako zastupitel budu důkladně analyzovat všechny uzavřené smlouvy, výběrová řízení a použiji veškeré zákonné prostředky k tomu, abych udržel chod města ve všech mezích zákona a férovosti.“
+Několik slov Honzy „Rozhodl jsem se kandidovat, protože nesnáším levárny a bohužel v Mostě se jich děje mnoho. A to je také hlavní téma, kterému bych se chtěl v zastupitelstvu věnovat. Jako zastupitel budu důkladně analyzovat všechny uzavřené smlouvy, výběrová řízení a použiji veškeré zákonné prostředky k tomu, abych udržel chod města ve všech mezích zákona a férovosti.“
