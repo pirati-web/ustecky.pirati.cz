@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - koordinatori
 - verejnost
+-zastup
 img: people/adam-komenda.jpg   # 165 x 220
 description: Asistent Mikuláše Peksy          	# kratký popis, max 160 znaků
 mail:
