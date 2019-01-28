@@ -15,7 +15,7 @@ MS Ústí na Labem - [Stránky MS](http://usti.pirati.cz/)
 
 MS Děčín - [Stránky MS](http://www.piratidecin.cz/)
 
-MS Kadaň - [Stránky MS](http://www.piratikadan.cz/)
+MS Kadaň - [Stránky MS](http://kadan.pirati.cz/)
 
 MS Žatec - [Stránky MS](https://www.facebook.com/PiratiZatec)
 
