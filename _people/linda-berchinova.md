@@ -4,7 +4,7 @@ name:     Linda Berchinová	  	# běžně používáné jméno
 titles:
   before: 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category: ulk               	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/linda-berchinova.jpg   # 165 x 220
 description: Student             	# kratký popis, max 160 znaků
