@@ -1,6 +1,6 @@
 ---
 uid: linda.berchinova
-name:     Linda Berchinová	  	# běžně používáné jméno
+name: Linda Berchinová	  	# běžně používáné jméno
 titles:
   before: 
   after:
