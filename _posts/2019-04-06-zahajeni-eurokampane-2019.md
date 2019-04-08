@@ -19,8 +19,6 @@ Mikuláš Peksa, který je trojkou kandidátky, zdůraznil chybějící zastoupe
 
 Čtvrtý na Pirátské kandidátce, Lukáš Blažej, zase zmínil důležitost evropského parlamentu pro tvorbu národní legislativy: „Evropská unie je místo, bez kterého nemůžeme řešit reformu autorského práva nebo racionální drogovou politiku. Zároveň nám poskytuje možnost být relevantním hráčem na celosvětovém poli.“ Také naráží na tradičně menší zájem voličů: „Každý leták, který rozdáte, každý volič, kterého přesvědčíte, je silnější než při volbách do Poslanecké sněmovny.“
  
-![Lukáš Blažej, Pirát a kandidát do EP na jako 4. na kandidátní listině](https://ustecky.pirati.cz/assets/img/posts/LukasBlazej1.jpg) 
-
 Ivan Bartoš, dodal: „Je velký úspěch pro Ústecký kraj, že v primárních volbách uspěli dva kandidáti na volitelných místech. Je to pro tento kraj i zajímavá paralela k evropským programům, protože potřebuje pomoci z hlediska restrukturalizace průmyslu, utlumování těžby a zlepšení infrastruktury. Je pro nás výzvou pomoci tomuto regionu.“ A jak už bývá u Pirátského předsedy dobrým zvykem, doprovodil svou řeč několika písničkami na akordeon.
 
 ![Ivan Bartoš, předseda Pirátů](https://ustecky.pirati.cz/assets/img/posts/IvanBartos1.jpg)
@@ -30,4 +28,5 @@ Oba dva kandidáti hájící barvy Ústeckého kraje věří, že je voliči vy�
 Ústečtí Piráti odstartovali v Chomutově kampaň ve velkém stylu. Pro návštěvníky nechyběl raut (masový i veganský). K dispozici byla poklidná atmosféra čajovny i dětský koutek pro nejmenší účastníky. Dobrou náladu doplnil koncert, vystoupení DJů a také promítání filmu. Příznačně šlo o britskou komedii Piráti na vlnách.
 
 ![Adéla Radimcová](https://ustecky.pirati.cz/assets/img/posts/Adela.jpg)
+![Lukáš Blažej, Pirát a kandidát do EP na jako 4. na kandidátní listině](https://ustecky.pirati.cz/assets/img/posts/LukasBlazej1.jpg) 
 
