@@ -28,6 +28,6 @@ Oba dva kandidáti hájící barvy Ústeckého kraje věří, že je voliči vy�
 Ústečtí Piráti odstartovali v Chomutově kampaň ve velkém stylu. Pro návštěvníky nechyběl raut (masový i veganský). K dispozici byla poklidná atmosféra čajovny i dětský koutek pro nejmenší účastníky. Dobrou náladu doplnil koncert, vystoupení DJů a také promítání filmu. Příznačně šlo o britskou komedii Piráti na vlnách.
 
 ![Adéla Radimcová](https://ustecky.pirati.cz/assets/img/posts/Adela.jpg)
-
+---
 ![Lukáš Blažej, Pirát a kandidát do EP na jako 4. na kandidátní listině](https://ustecky.pirati.cz/assets/img/posts/LukasBlazej1.jpg) 
 
