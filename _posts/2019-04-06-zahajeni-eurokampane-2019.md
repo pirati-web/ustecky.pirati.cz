@@ -6,7 +6,7 @@ layout: post
 title: Zahájení volební kampaně v Ústeckém kraji
 author: Piráti Ústecký kraj
 # authorId:     # uid nekoho z _people (nepoviné)
-image: posts/zahajeniUSK.jpg
+image: posts/ZahajeniUSK.jpg
 ---
 
          
