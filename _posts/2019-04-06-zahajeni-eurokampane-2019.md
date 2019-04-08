@@ -13,7 +13,7 @@ image: posts/ZahajeniUSK.jpg
 # Zahájení volební kampaně v Ústeckém kraji
 Více než stovka lidí strávila sobotní odpoledne ve společnosti Pirátské strany, aby společně odstartovali předvolební kampaň do květnových voleb do Evropského parlamentu. Do prostoru v chomutovském hotelu Sudety se přišli nejen pobavit, ale také poslechnout přední Pirátské kandidáty Mikuláše Peksu a Lukáše Blažeje a také předsedu Pirátské strany Ivana Bartoše.
 
-(https://ustecky.pirati.cz/assets/img/posts/USK1.jpg)
+![Piráti Ústecký kraj](https://ustecky.pirati.cz/assets/img/posts/USK1.jpg)
 
 Mikuláš Peksa, který je trojkou kandidátky, zdůraznil chybějící zastoupení Ústeckého kraje v Evropském parlamentu: „Evropský parlament v určitém smyslu více ovlivňuje naše životy než parlament národní. Zjistil jsem, že z Ústeckého kraje není v Evropském parlamentu nikdo a tak nemůže být zohledňováno, co se v děje našem regionu. Pro Brusel je náš kraj jen jakási periferie. Chybí nám projektovat to, co se děje na úrovni našeho regionu a naši republiky, do celoevropské politiky, všechno propojit. Evropa potřebuje Piráty, abychom ovlivnili fungování věcí pro nás a ne velké korporace.“
 
@@ -25,6 +25,6 @@ Oba dva kandidáti hájící barvy Ústeckého kraje věří, že je voliči vy�
 
 Ústečtí Piráti odstartovali v Chomutově kampaň ve velkém stylu. Pro návštěvníky nechyběl raut (masový i veganský). K dispozici byla poklidná atmosféra čajovny i dětský koutek pro nejmenší účastníky. Dobrou náladu doplnil koncert, vystoupení DJů a také promítání filmu. Příznačně šlo o britskou komedii Piráti na vlnách.
 
-(https://ustecky.pirati.cz/assets/img/posts/IvanBartos1.jpg)
-(https://ustecky.pirati.cz/assets/img/posts/Adela1.jpg)
-(https://ustecky.pirati.cz/assets/img/posts/LukasBlazej1.jpg)
+![Ivan Bartoš, předseda Pirátů](https://ustecky.pirati.cz/assets/img/posts/IvanBartos1.jpg)
+![Adéla Radimcová](https://ustecky.pirati.cz/assets/img/posts/Adela1.jpg)
+![Lukáš Blažej, Pirát a kandidát do EP na jako 4. na kandidátní listině](https://ustecky.pirati.cz/assets/img/posts/LukasBlazej1.jpg)
