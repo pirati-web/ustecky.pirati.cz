@@ -27,6 +27,8 @@ Své poznatky pak shrnuje Pirátská členka **Šárka Rousová**: “Seminář 
 
 ![Piráti](https://ustecky.pirati.cz/assets/img/posts/asz2.jpg)
 
+![Dokumenty k problematice](https://drive.google.com/open?id=19s1k3-ZW-qQYlccCTDiWcSn-IqZIOZd3)
+
 Jak pracují Piráti?
 Přehled nejdůležitějších aktivit nejen pirátských poslanců naleznete na stránce [piratipracuji.cz](http://piratipracuji.cz)
 *Držíme kurz!
