@@ -25,9 +25,9 @@ image: posts/asz.jpg
 
 Své poznatky pak shrnuje Pirátská členka **Šárka Rousová**: “Seminář na velmi aktuální téma v našem kraji, kde je dost důležité řešit oddlužení, vzdělávání a edukaci v SVL i po ukončení dotací z EU.” Seminář popsal také **Karel Kindl**: “Příspěvky k tématu vyloučených lokalit byly poutavé a velice zajímavě a někdy až zarážející, neboť některé informace byly překvapivé a zároveň děsivé. Tento seminář poukázal na problematiku, která neovlivňuje pouze jednotlivce nebo skupiny, ale celou společnost, a proto by této problematické mělo být věnováno mnohem více času a energie.”
 
-![Piráti](https://ustecky.pirati.cz/assets/img/posts/asz2.jpg)
+[Dokumenty k problematice](https://drive.google.com/open?id=19s1k3-ZW-qQYlccCTDiWcSn-IqZIOZd3)
 
-![Dokumenty k problematice](https://drive.google.com/open?id=19s1k3-ZW-qQYlccCTDiWcSn-IqZIOZd3)
+![Piráti](https://ustecky.pirati.cz/assets/img/posts/asz2.jpg)
 
 Jak pracují Piráti?
 Přehled nejdůležitějších aktivit nejen pirátských poslanců naleznete na stránce [piratipracuji.cz](http://piratipracuji.cz)
