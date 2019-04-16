@@ -9,7 +9,7 @@ authorId:    # uid nekoho z _people (nepoviné)
 image: posts/asz.jpg
 ---
 
-**Ústí nad Labem, 15. 4. 2019 – Jak efektivně bojovat s chudobou a sociálně vyloučenými lokalitami** – to byla náplň sobotního semináře, který pořádali Piráti z Ústeckého kraje ve spolupráci s Agenturou pro sociální začleňování (ASZ). Přednášky byly určené především pro zájemce z řad zastupitelů, nicméně nakonec do ústeckého Pirátského centra dorazilo na dvě desítky pečlivých posluchačů, zastupitelů i poslanců, toužících změnit leckde neutěšenou sociální situaci.
+**Ústí nad Labem – Jak efektivně bojovat s chudobou a sociálně vyloučenými lokalitami** – to byla náplň sobotního semináře, který pořádali Piráti z Ústeckého kraje ve spolupráci s Agenturou pro sociální začleňování (ASZ). Přednášky byly určené především pro zájemce z řad zastupitelů, nicméně nakonec do ústeckého Pirátského centra dorazilo na dvě desítky pečlivých posluchačů, zastupitelů i poslanců, toužících změnit leckde neutěšenou sociální situaci.
 
 **Michal Kratochvíl, vedoucí regionálního centra ASZ**, popsal základní situaci v problematice sociálně vyloučených lokalit se zřetelem na Ústecký kraj, kdy s organizací spolupracují takřka tři desítky měst a obcí. Jako modelový příklad dobré spolupráce popsal situaci v Dubí, kde se za několik let podařilo zmírnit negativní dopady v sociálně vyloučených lokalitách: „Když jsme tam vstoupili, tak tam nic nebylo. Podařilo se dostat do obce neziskovou organizaci, která pomohla zlepšit kapacitu obce řešit problémy. I díky tomu se dalo do kupy jádro lidí toužící po změně. Naší snahou bylo nevytvářet klícky, ale včlenit všechny – tedy zapojit nejen Romy, ale i většinovou populaci.“
 
