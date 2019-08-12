@@ -19,3 +19,4 @@ Pirátský poslanec za Ústecký kraj František Navrkal kvůli neutěšené sit
  
  V kontextu událostí z posledních dní pak zní absurdně Babišova douška z odpovědi na interpelaci: „Jsem přesvědčen, že v tuto chvíli je nejistota, která vedla zastupitele k neuhrazení této částky, zažehnána a pevně věřím, že obě dvě strany, Krajská zdravotní i město Rumburk, společnými silami zachovají akutní zdravotní péči ve Šluknovském výběžku.“ Je to právě premiérova strana, která blokuje možné řešení a má zdraví tisíců obyvatel jako rukojmí v prapodivné hře.
 
+
