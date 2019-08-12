@@ -118,8 +118,8 @@ defaults:   # defaults values for collection scope
 emptyArray: []
 
 assets:
-  source_maps: false
-  compression: false
+  source_maps: true
+  compression: true
   gzip: false
   plugins:
     css: { autoprefixer: {}}
