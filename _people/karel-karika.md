@@ -6,6 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- zastup
 img: people/karelkarika.jpg   # 165 x 220
 description: Člen Ústí nad Labem       	# kratký popis, max 160 znaků
 mail:
