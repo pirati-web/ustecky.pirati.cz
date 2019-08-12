@@ -6,7 +6,6 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- koordinatori
 - verejnost
 - zastup
 img: people/adam-komenda.jpg   # 165 x 220
