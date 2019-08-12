@@ -1,28 +1,20 @@
 ---
-date: 2017-10-26
+date: 2019-10-26
 category: blog
 tags: volby parlament Piráti
 layout: post
-title: Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje
+title: Rumburské ANO dál potápí nemocnici
 author: Piráti Ústecký kraj
-authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/ulk_dekujeme.jpg
+image: posts/nemocnice.jpg
 ---
 
          
-# Shrnutí voleb 2017 očima Pirátů z Ústeckého kraje*
+# Rumburské ANO dál potápí nemocnici
+Situace v nemocnici v Rumburku nadále eskaluje a vypadá to, že se potvrdí nejčernější varianty vývoje. V tomto týdnu řešilo situaci v nemocnici krajské zastupitelstvo a to poté, co odmítlo vedení města podepsat převzetí nemocnice pod křídla Krajské zdravotní.  Problém rumburské nemocnice se dotýká více než padesáti tisíc obyvatel Šluknovského výběžku, kteří by mohli přijít o dostupnou zdravotní péči.
 
-** Tento víkend proběhly volby do Poslanecké sněmovny České republiky. Česká pirátská strana v nich dosáhla zásadního úspěchu v podobě celkově třetího místa s počtem 546393 odevzdaných hlasů, což odpovídá 10,79 % platných hlasů. V Ústeckém kraji sice výsledek nebyl tak vysoký jako v ostatních krajích, ale i tak byl velmi pozitivní pro naši další práci. Piráti skončili v těsném závěsu za komunisty a občanskými demokraty  na 5. místě s 28004 hlasů, což nakonec stačilo na 8,24 %. Díky tomu nás bude bude ve sněmovně reprezentovat krajský volební lídr [Mikuláš Peksa](/lide/mikulas-peksa).
+Pirátský poslanec za Ústecký kraj František Navrkal kvůli neutěšené situaci nemocnice interpeloval premiéra Babiše a poukázal v ní na stranickou příslušnost starosty Rumburku, kterému by mělo po vzoru kampaně ANO stačit zvednout telefon a vyřešit problém se svým stranickým šéfem. „Ukázalo, že premiérem Babišem slíbené dojednané řešení se ve skutečnosti nepovedlo a nemocnice dále směřuje k vyhlášení insolvence. Konkrétně zastupitelstvo Rumburku neodsouhlasilo úhradu loňské ztráty nemocnice, což byla podmínka pro její převzetí Krajskou zdravotní. Velmi zvláštní je, že pro návrh nehlasoval starosta města ani žádný další člen hnutí ANO v zastupitelstvu,“ komentoval Navrkal.
 
+ V samotných otázkách se poslanec Navrkal Babiše dotazuje, proč nevyjednal pro svůj plán podporu ani od clenu vlastního politického hnutí v Rumburku? Tuto otázku nechal premiér bez odpovědi.  Na druhý dotaz – jak chce Babiš zabránit prohlubování krize, má ministerský předseda jednoduchou odpověď, kterou jeho rumburská buňka zřejmě neslyšela: „Město Rumburk musí přijmout podmínky Krajské zdravotní a ztrátu Lužické nemocnice uhradit.“
+ 
+ V kontextu událostí z posledních dní pak zní absurdně Babišova douška z odpovědi na interpelaci: „Jsem přesvědčen, že v tuto chvíli je nejistota, která vedla zastupitele k neuhrazení této částky, zažehnána a pevně věřím, že obě dvě strany, Krajská zdravotní i město Rumburk, společnými silami zachovají akutní zdravotní péči ve Šluknovském výběžku.“ Je to právě premiérova strana, která blokuje možné řešení a má zdraví tisíců obyvatel jako rukojmí v prapodivné hře.
 
- Za tyto hlasy všem voličům děkujeme a vzkazujeme nejen jim, že pro Pirátskou stranu je tento výsledek velkou výzvou, aby ukázala, že není recesistickou partou lidí ani protestní či chcete-li protisystémovou stranou, za kterou byla ještě donedávna považována, ale liberálně demokratickou stranou, která je od počátku  stálá ve svých názorech, ve svém směřování i ve své politice. Můžeme pozitivně ovlivnit politickou situaci v České republice svým  liberálním a proevropským směřováním. Naše místo je ve středu Evropy. 
-
->>„Kampaň pro Piráty neskončila volbami, ale naopak spíše nabírá na obrátkách další prací pro naše občany. Ani ostatní členové však nemůžou usnout na vavřínech. Musíme využít pozitivní energii našich dobrovolníků a podporovatelů, abychom v příštím roce společně přinesli čerstvý vítr do komunální politiky severočeských vesnic a měst.“ řiká pirátský poslanec za Ústecký kraj Mgr. Mikuláš Peksa.
-
-Pirátská strana hodlá v následujicím roce kandidovat do zastupitelstev zejména v obcích, kde měla značný úspěch nebo kde dlouhodobě vykonává svou činnost zdejší sdružení. Zmínit můžeme například Litoměřice, odkud pochází náš lídr. Zde jsme byli stejně jako celorepublikově na krásném třetí místě s 1333 hlasy těsně za druhou ODS, jejímž krajským lídrem byl zdejší starosta. Dalšími místy, kde budeme pravděpodobně skládat svou nebo koaliční kandidátní listinu budou Ústí nad Labem, Most, Teplice, Děčín, Žatec či obec Místo na Chomutovsku. Během doby zbývající do voleb se nejspíše vykrystalizují i další pirátské základny. Nebráníme se ani spolupráci s místními hnutími, která už v mnoha případech s našimi zástupci v jednotlivých regionech spolupracují, ale klidně si poslechneme i nabídky jiných, která o spolupráci v komunálních volbách projeví zájem. Z těchto důvodů budeme rádi, když se občané budou více zajímat o fungování Pirátské strany a proto bychom vás rádi pozvali na nadcházející schůzi krajského sdružení v sobotu 4. listopadu od 16:00 v [ústecké Restauraci Praha](https///www.facebook.com/Restaurace-PRAHA-550303904999928/).
-
-##### Kontakty
-
-[Mikuláš Peksa](/lide/mikulas-peksa), nově zvolený poslanec PSP ČR, mikulas.peksa@pirati.cz
-
-[František Navrkal](/lide/frantisek-navrkal), předseda Krajského sdružení Ústecký kraj, frantisek.navrkal@pirati.cz
