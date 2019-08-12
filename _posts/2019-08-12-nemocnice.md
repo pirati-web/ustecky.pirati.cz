@@ -10,7 +10,7 @@ image: posts/nemocnice.jpg
 
 Situace v nemocnici v Rumburku nadále eskaluje a vypadá to, že se potvrdí nejčernější varianty vývoje. V tomto týdnu řešilo situaci v nemocnici krajské zastupitelstvo a to poté, co odmítlo vedení města podepsat převzetí nemocnice pod křídla Krajské zdravotní. Problém rumburské nemocnice se dotýká více než padesáti tisíc obyvatel Šluknovského výběžku, kteří by mohli přijít o dostupnou zdravotní péči.
 
-![Piráti Ústecký kraj](https://ustecky.pirati.cz/assets/img/posts/sablona-1.png)
+![Piráti Ústecký kraj](https://ustecky.pirati.cz/assets/img/posts/franta_nemocnice_mala.png)
 
 Pirátský poslanec za Ústecký kraj František Navrkal kvůli neutěšené situaci nemocnice interpeloval premiéra Babiše a poukázal v ní na stranickou příslušnost starosty Rumburku, kterému by mělo po vzoru kampaně ANO stačit zvednout telefon a vyřešit problém se svým stranickým šéfem. „Ukázalo, že premiérem Babišem slíbené dojednané řešení se ve skutečnosti nepovedlo a nemocnice dále směřuje k vyhlášení insolvence. Konkrétně zastupitelstvo Rumburku neodsouhlasilo úhradu loňské ztráty nemocnice, což byla podmínka pro její převzetí Krajskou zdravotní. Velmi zvláštní je, že pro návrh nehlasoval starosta města ani žádný další člen hnutí ANO v zastupitelstvu,“ komentoval Navrkal.
 
