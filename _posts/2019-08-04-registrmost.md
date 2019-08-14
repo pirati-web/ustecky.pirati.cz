@@ -5,7 +5,7 @@ tags: Most registr Piráti
 layout: post
 title: Díky Pirátům jsou v Mostě smlouvy v pořádku
 author: Adam Komenda
-# authorId: adam.komenda     # uid nekoho z _people (nepoviné)
+authorId: adam.komenda     # uid nekoho z _people (nepoviné)
 image: posts/registr.jpg
 ---
 
