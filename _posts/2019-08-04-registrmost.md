@@ -10,7 +10,7 @@ image: posts/registr.jpg
 ---
 
 # Díky Pirátům jsou v Mostě smlouvy v pořádku
-Několik desítek neplatných smluv za miliardy korun odhalil u městských firem i příspěvkových organizací v Mostě pirátský zastupitel Adam Komenda jejich analýzou na serveru Hlídač smluv. Mnoho smluv totiž bylo neplatných už od počátku, jelikož nebyly zveřejněny v registru smluv do tří měsíců od uzavření smlouvy.
+Několik desítek neplatných smluv až za několik desítek milionů korun odhalil u městských firem i příspěvkových organizací v Mostě pirátský zastupitel Adam Komenda jejich analýzou na serveru Hlídač smluv. Mnoho smluv totiž bylo neplatných už od počátku, jelikož nebyly zveřejněny v registru smluv do tří měsíců od uzavření smlouvy.
 
 ![Práce s registrem smluv](https://ustecky.pirati.cz/assets/img/posts/registr_doclanku.jpg)
 
