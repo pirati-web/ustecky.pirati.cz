@@ -5,10 +5,6 @@ date: 2018-10-18T18:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
 image: posts/2018-10-18-ewrc.jpg
-
-tags:
-  - magistrát
-  - zastupitelstvo
 ---
 
 Ve dnech 8. - 11. 10. 2018 se v Bruselu konal Evropský týden regionů a měst. Přes 6 000 účastníků poslouchalo 600 vystupujících na více než [150 přednáškách](https://europa.eu/regions-and-cities/sites/ewrc/files/euregionsweek_programme_2018.pdf). Bylo možno získat informace o připravovaných dotačních programech a diskutovat přímo s lidmi, kteří za ně zodpovídají; přebírat dobrou praxi z jiných měst; získat důležité kontakty či domlouvat mezinárodní projekty. Po většinu doby probíhaly odborné přednášky ve 14 místnostech zároveň, tudíž by nebylo možné pokrýt ani ty, které jsou přímo užitečné pro Ústí nad Labem. Ústecký Magistrát se tento problém rozhodl vyřešit zcela typicky - na Evropský týden regionů a měst nevyslal vůbec nikoho.
