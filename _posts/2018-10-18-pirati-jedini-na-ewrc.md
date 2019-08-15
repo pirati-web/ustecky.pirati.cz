@@ -1,6 +1,7 @@
 ---
 date: 2018-10-18
 category: blog
+tags: Ústí Kraj
 title: Piráti byli jedinými zástupci Ústeckého kraje na European Week of Regions and Cities
 layout: post
 author: Lukáš Blažej
