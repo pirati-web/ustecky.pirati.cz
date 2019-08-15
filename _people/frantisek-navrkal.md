@@ -8,6 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 - verejnost
+- poslan
 img: people/frantisek-navrkal.jpg   # 165 x 220
 description: Poslanec, předseda KS Ústecký kraj
 mail:
