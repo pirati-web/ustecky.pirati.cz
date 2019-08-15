@@ -1,7 +1,9 @@
 ---
+date: 2018-10-04
 category: blog
+tags: Zastupitelé Kraj
 title: Ústečtí Piráti školili budoucí zastupitele
-date: 2018-10-04T9:00:00.000Z
+layout: post
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
 image: posts/2018-08-05-dlabacov.jpg
