@@ -5,10 +5,6 @@ date: 2018-10-04T9:00:00.000Z
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
 image: posts/2018-08-05-dlabacov.jpg
-
-tags:
-  - magistrát
-  - zastupitelstvo
 ---
 
 Dne 4. 10. 2018 se v pražském kinu Dlabačov sešlo 140 kandidátů do zastupitelstva, aby načerpali zkušenosti od stávajících zastupitelů.
