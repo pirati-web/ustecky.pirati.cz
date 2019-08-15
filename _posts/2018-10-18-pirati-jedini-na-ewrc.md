@@ -1,7 +1,8 @@
 ---
+date: 2018-10-18
 category: blog
 title: Piráti byli jedinými zástupci Ústeckého kraje na European Week of Regions and Cities
-date: 2018-10-18T18:00:00.000Z
+layout: post
 author: Lukáš Blažej
 authorId: lukas.blazej    # uid nekoho z _people
 image: posts/2018-10-18-ewrc.jpg
