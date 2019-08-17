@@ -5,7 +5,7 @@ title: Sociální bydlení v Kadani
 date: 2019-08-17
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
-image: posts/kadan-olga.jpg
+image: posts/kadan_olga.jpg
 tags: Kadan Sociální
   
 ---
