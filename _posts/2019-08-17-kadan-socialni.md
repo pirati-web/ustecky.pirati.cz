@@ -11,7 +11,7 @@ tags: Kadan Sociální
 ---
 
 # Sociální bydlení v Kadani
-Sociální bydlení v Kadani, sociální dávky na bydlení a bydlení či sociální systém celkově jsme řešili s poslankyní [Olgy Richterové](http://www.olgarichterova.cz/) a se starostou Kadaně. Problematiku jsme probrali komplexně teoreticky i v reálné podobě.
+Sociální bydlení v Kadani, sociální dávky na bydlení a bydlení či sociální systém celkově jsme řešili s poslankyní [Olgou Richterovou](http://www.olgarichterova.cz/) a se starostou Kadaně. Problematiku jsme probrali komplexně teoreticky i v reálné podobě.
 
 Dopoledne jsme strávili nad legislativou, kde padlo zásadní "odhalení", že každý úřad práce v této oblasti postupuje odlišně, 
 přestože existuje metodika, která je nástrojem k omezování maximálních dávek pro "obchodníky s chudobou".
