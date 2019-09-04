@@ -34,10 +34,10 @@ Do strany vstoupil kvůli zájmu o liberalizaci Internetu, rozvoj osobních svob
 
 ## Historie funkcí ve straně:
 
-od listopadu 2013 do října 2016 (s několika krátkými přestávkami) člen republikového výboru strany,
-od dubna 2016 předseda krajského sdružení Ústeckého kraje strany,
-od října 2016 člen rozhodčí komise strany.
+- od listopadu 2013 do října 2016 (s několika krátkými přestávkami) člen republikového výboru strany,
+- od dubna 2016 předseda krajského sdružení Ústeckého kraje strany,
+- od října 2016 člen rozhodčí komise strany.
 
 ## Veřejné funkce:
 
-od června 2019 poslanec Parlamentu České republiky
+- od června 2019 poslanec Parlamentu České republiky
