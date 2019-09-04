@@ -16,7 +16,7 @@ mail:
 mob:			  +420 778 702 710
 profiles:
   github:         https://github.com/FNj
-  facebook: 		  https://www.facebook.com/frantisek.navrkal/
+  facebook: 		  https://www.facebook.com/frantisek.navrkal
   twitter: 
   flickr:     		https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=franti%C5%A1ek%20navrkal&view_all=1
 ordpks: 1
