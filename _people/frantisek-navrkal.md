@@ -36,7 +36,7 @@ Do strany vstoupil kvůli zájmu o liberalizaci Internetu, rozvoj osobních svob
 
 - od listopadu 2013 do října 2016 (s několika krátkými přestávkami) člen republikového výboru strany,
 - od dubna 2016 předseda krajského sdružení Ústeckého kraje strany,
-- od října 2016 člen rozhodčí komise strany.
+- od října 2016 člen rozhodčí komise strany. 
 
 ## Veřejné funkce:
 
