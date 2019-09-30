@@ -2,7 +2,7 @@
 uid: jiri.baudis
 name:     Jiří Baudis  	# běžně používáné jméno
 titles:
-  before:Ing.
+  before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
@@ -17,6 +17,7 @@ profiles:
   twitter: 
   flickr: 
 ---
+
 
 
 Narodil jsem se v prosinci roku 1981 ve městě Ústí nad Labem, kde jsem strávil převážnou část svého života. Po studiích na gymnáziu, se mou alma mater stala Západočeská univerzita, kde jsem vystudoval obor kulturní a sociální antropologie (mgr.). Následně jsem profesně působil 3 roky v sociálních službách a poté jsem svou profesní působnost přesunul do oblasti telekomunikací, kde jsem byl zaměstnán na pozicích konzultanta technické podpory a retenčního i reklamačního specialisty. V souběhu se zaměstnáním jsem vystudoval na Univerzitě Jana Evangelisty Purkyně nejdříve obor Podniková ekonomie (Bc.) a následně obor Regionální rozvoj a veřejná správa (Ing.). V současnosti jsem zaměstnán ve státní firmě, která se věnuje realizaci stavebních investic v železniční dopravě. 
