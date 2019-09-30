@@ -2,7 +2,7 @@
 uid: jiri.baudis
 name:     Jiří Baudis  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing. Bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
