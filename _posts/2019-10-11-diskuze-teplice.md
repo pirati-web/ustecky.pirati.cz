@@ -20,7 +20,7 @@ Debata byla věnována ožehavému problému bydlení a to zejména ve vztahu k 
 
 Vedle Olgy Richterové zastupovali politické strany ministryně práce a sociálních věcí Maláčová a poslanec Hrnčíř z SPD. Odborná veřejnost byla zastoupena předsedou Platformy pro sociální bydlení Štěpánem Ripkou a sociologem Danielem Prokopem.
 
-![Karel Karika](https://ustecky.pirati.cz/asset/posts/diskuze_teplice.png)
+![Karel Karika](https://ustecky.pirati.cz/assets/img/posts/diskuze_teplice.png)
 
 V publiku vše pečlivě sledoval Karel Karika, ústecký aktivista a zastupitel, který minulý rok na vlastní kůži z pozice starosty řešil akutní nedostatek sociálního bydlení v kontextu rušených ubytoven. “Připomínky Olgy Richterové, Štěpána Ripky i sociologa Prokopa, byly skvělé a přínosné. Paní ministryně Maláčová, ač to myslí dobře, jen bránila koalici. Úplně zcestné příspěvky pana Hrnčíře z SPD, které se věnovaly pouze zněužíváním dávek, svědčily o naprostém nepochopení problému a cílů debaty,” komentuje základní pocity Karika. 
 
