@@ -27,4 +27,4 @@ V publiku vše pečlivě sledoval Karel Karika, ústecký aktivista a zastupitel
 
 Nepříjemným překvapením pak pro Karla Kariku byla absence debaty ohledně zákona o sociálním bydlení. “My všichni, kteří se v této problematice pohybují, víme, že zákon o sociálním bydlení je naprostý základ, ale v této debatě o tom nepadlo ani slovo. Právě tento zákon je zcela klíčový pro řešení ghett. Žádná další “nová a skvělá” opatření není potřeba vymýšlet,” uzavírá Karika.
 
-Záznam celého pořadu zde [hyperlink](https://radiozurnal.rozhlas.cz/rozdeleni-svobodou-debata-na-tema-bydleni-8089236)
+[Záznam celého pořadu zde](https://radiozurnal.rozhlas.cz/rozdeleni-svobodou-debata-na-tema-bydleni-8089236)
