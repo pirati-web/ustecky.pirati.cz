@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-img: people/karfil.jpg   # 165 x 220
+img: people/mila-karfilatova.jpg   # 165 x 220
 description: personalistka,    2. místopředsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
