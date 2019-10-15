@@ -21,4 +21,5 @@ MS Žatec - [Stránky MS](https://www.facebook.com/PiratiZatec)
 
 MS Litoměřice - [Stránky MS](https://litomericko.pirati.cz)
 
+MS Most - [Stránky MS](https://most.pirati.cz)
 
