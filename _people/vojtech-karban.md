@@ -6,7 +6,6 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- pks
 img: people/vojtech-karban.jpg   # 165 x 220
 description: 4. místopředseda KS Ústeckého kraje              	# kratký popis, max 160 znaků
 mail:
@@ -17,7 +16,6 @@ profiles:
   facebook:     
   twitter: 		  
   flickr:	
-ordpks: 5
 ---
 
 Vojtěch Karban (* 11.ledna.1979) Pochází z města Ústí nad Labem Vystudoval Střední školu Managementu a služeb s maturitou
