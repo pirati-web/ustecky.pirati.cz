@@ -8,7 +8,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - rk
 - ulk
 - ga
-- pks
 img: people/michal-ketner.jpg   # 165 x 220
 description: 3. místopředseda KS Ústeckého kraje  # kratký popis, max 160 znaků
 mail:
@@ -20,7 +19,6 @@ profiles:
   twitter: 
   flickr: 
 ordga: 4
-ordpks: 4
 ---
 
 Narodil se 10.12.1990, je člen Rozhodčí komise a Garantem programového bodu Psychotropní látky. 
