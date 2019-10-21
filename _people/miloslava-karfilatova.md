@@ -6,8 +6,9 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+-pks
 img: people/mila-karfilatova.jpg   # 165 x 220
-description: personalistka,    2. místopředsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: personalistka,   Předsedkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
@@ -15,6 +16,7 @@ profiles:
   facebook: 
   twitter: 
   flickr: 
+ordpks: 1
 ---
  Miloslava Karfilátová, nar. 1966, členka bytové komise, Piráti
  
