@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - verejnost
 - poslan
 img: people/frantisek-navrkal.jpg   # 165 x 220
-description: Poslanec, předseda KS Ústecký kraj
+description: Poslanec za Ústecký kraj
 mail:
 - frantisek.navrkal@pirati.cz
 mob:			  +420 778 702 710
