@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - ga
 img: people/michal-ketner.jpg   # 165 x 220
-description: 3. místopředseda KS Ústeckého kraje  # kratký popis, max 160 znaků
+description: člen KS Ústeckého kraje  # kratký popis, max 160 znaků
 mail:
 - michal.ketner@pirati.cz
 mob:			  +420 722 225 444
