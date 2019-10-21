@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
--pks
+- pks
 img: people/mila-karfilatova.jpg   # 165 x 220
 description: personalistka,   Předsedkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
@@ -18,9 +18,10 @@ profiles:
   flickr: 
 ordpks: 1
 ---
- Miloslava Karfilátová, nar. 1966, členka bytové komise, Piráti
+
+Miloslava Karfilátová, nar. 1966, členka bytové komise, Piráti
  
- personalistka
+personalistka
  
 Pocházím z K. Varů, kde jsem absolvovala základní a střední školu. Vysokoškolské vzdělání jsem získala na VŠEM Praha, bakalářské v oboru Komunikace a lidské zdroje, magisterské v oboru Management firem. Do Kadaně jsem přišla v roce 2004 jako personalistka tehdy jediného investora na nově vznikající průmyslové zóně Královský vrch. Nejprve jsem dojížděla, po necelém roce jsem se do Kadaně i s rodinou přestěhovala. 
 Za uplynulých 14 let v Kadani jsem zažila na vlastní kůži vliv ekonomických cyklů na trh práce. Od 17% nezaměstnanosti v roce 2004 přes rozvoj v následujících letech, krizi v letech 2008-2009 až po dnešní dny, kdy množství zaměstnavatelů a jejich poptávka po pracovní síle převyšuje nabídku našeho města. Z toho důvodu zaměstnavatelé musí zaměstnance získat jinde a z toho plynou potíže jako nedostatek bytů, nedostatek lékařů, brzy může přijít nedostatek kapacit ve školkách a školách atd. 
