@@ -17,3 +17,4 @@ V primárních volbách teď budou Piráti pokračovat volbou čela kandidátky 
 
 Karel Karika (59) je výraznou osobností veřejného života v Ústeckém kraji. V letech 2014-18 byl místostarostou městského obvodu Ústí nad Labem-Město, přičemž během svého působení řešil neutěšenou bytovou situaci kvůli rušení ubytoven. Za svou pomoc lidem, kteří jsou vesměs na okraji zájmu, obdržel letos cenu Františka Kriegla. Každou neděli vaří jídlo pro nejpotřebnější a to přímo v centru Ústí nad Labem. 
 
+
