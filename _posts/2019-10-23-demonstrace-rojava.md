@@ -1,7 +1,7 @@
 ---
 date: 2019-10-23
 category: blog
-tags: Piráti ASZ seminář
+tags: Piráti Rojava Sýrie
 layout: post
 title: Za Rojavu se demonstrovalo i v Ústí
 author: Piráti Ústecký kraj
