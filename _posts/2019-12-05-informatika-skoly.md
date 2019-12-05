@@ -5,7 +5,7 @@ tags: informatika vyuka Piráti
 layout: post
 title: Škola, hudba, Piráti, zastupitelstvo, informatika a robotika
 author: Piráti Ústecký kraj
-image: posts/nemocnice.jpg
+image: posts/ucebnitechnika.jpg
 ---
 
 
