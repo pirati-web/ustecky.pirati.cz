@@ -9,7 +9,7 @@ image: posts/ucebnitechnika.jpg
 ---
 
 
-Škola, hudba, Piráti, zastupitelstvo, informatika a robotika
+# Škola, hudba, Piráti, zastupitelstvo, informatika a robotika
 
 Tak nějak by se zkráceně dalo charakterizovat těch přibližně 12 měsíců, které uběhly od komunálních voleb, kdy jsem v říjnu minulého roku byl zvolen do Zastupitelstva Města Žatec za Piráty. Za ten necelý rok jsem se seznámil s novými plány a studiemi na rozvoj našeho města a zabýval se dalšími otázkami souvisejícími s naším městem. S touto prací, s přípravou na zasedání zastupitelstva, mi velmi pomáhá nový předseda našeho místního sdružení pan Vladimír Vlach, který působí také jako předseda spolku ŽOK – Žatecký okrášlovací kolektiv. Tento spolek, jak už z názvu vyplývá, se snaží o okrášlování našeho města prostřednictvím organizování různých kulturních akcí, koncertů, turnaje v pétanque apod. Právě díky tomuto spolku centrum města znovu ožilo. Na jedné akci nazvané „Hudba v podloubí“ jsme si zahráli a zazpívali i s mojí dcerou Aničkou.
 
