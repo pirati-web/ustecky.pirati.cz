@@ -6,8 +6,9 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- pks
 img: people/vladimir-vlach.jpg   # 165 x 220
-description: člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: Předseda KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail:
 - vladimir.vlach@pirati.cz
 mob:	
@@ -16,6 +17,7 @@ profiles:
   facebook: 
   twitter: 
   flickr: 
+ordpks: 1
 ---
 
 Ženatý 42 let, 4 děti, v Žatci od roku 2009.

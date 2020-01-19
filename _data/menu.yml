@@ -19,9 +19,9 @@ main:
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+#  - link: /krajske-volby/
+#    name: Krajské volby
+#    match: krajske-volby
     #submenu:
     #  - link: /komunalni-volby/mapa-zameru/
     #    name: Mapa záměrů
@@ -41,8 +41,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+#      - link: /krajske-volby/
+#        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
