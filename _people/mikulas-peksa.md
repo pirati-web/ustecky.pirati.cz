@@ -6,14 +6,12 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
-- rp
 - poslan
 - ulk
-- pks
 - carousel
 - media
 img: people/mikulas-peksa.jpg   # 165 x 220
-description: Europoslanec, místopředseda Pirátů
+description: Europoslanec, předseda Evropských Pirátů
 mail:
 - mikulas.peksa@ep.europa.eu
 profiles:
