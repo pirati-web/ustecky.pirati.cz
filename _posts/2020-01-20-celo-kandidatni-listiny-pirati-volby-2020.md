@@ -5,7 +5,7 @@ tags: volby 2020 Ústecký Piráti
 layout: post
 title: Piráti znají čelo kandidátky
 author: Jindřich Čermák
-image: posts/ucebnitechnika.jpg
+image: posts/pir-ust.png
 ---
 
 Ústí nad Labem, 20. ledna - Na přelomu roku si Piráti v Ústeckém kraji zvolili prvních devět kandidátů do říjnových krajských voleb. V otevřených primárkách na první devítku uspěly tři ženy a šest mužů. Lídrem kandidátky je už dříve zvolený Karel Karika.
