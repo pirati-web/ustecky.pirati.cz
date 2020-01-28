@@ -8,7 +8,7 @@ author: Jindřich Čermák
 image: posts/pir-ust.png
 ---
 
-Ústí nad Labem, 20. ledna - Na přelomu roku si Piráti v Ústeckém kraji zvolili prvních devět kandidátů do říjnových krajských voleb. V otevřených primárkách na první devítku uspěly tři ženy a šest mužů. Lídrem kandidátky je už dříve zvolený Karel Karika.
+Ústí nad Labem, 20. ledna - **Na přelomu roku si Piráti v Ústeckém kraji zvolili prvních devět kandidátů do říjnových krajských voleb. V otevřených primárkách na první devítku uspěly tři ženy a šest mužů. Lídrem kandidátky je už dříve zvolený Karel Karika.**
 
 
 Na druhé místo kandidátky Piráti zvolili Kateřinu Stojanovou, studentku Právnické fakulty UK z Litoměřic, na třetím místě je Vít Rous, environmentalista z Dubí, čtvrtá pozice patří Jiřímu Baudisovi, systémovému analytiku Správy železnic a první pětku uzavírá Jan Kranda, učitel ze Žatce.
@@ -32,7 +32,7 @@ Druhou pětku kandidátky tvoří šestý Vladimír Vlach, předseda Pirátů v 
 Lídr Karel Karika je potěšený tím, že kandidátka je napříč krajem. „Jsem rád, že nabízíme kvalitní kandidáty ze všech koutů našeho kraje a s odbornou šíří, které dobrá politická správa potřebuje. Stojí za nimi kus práce v komunální politice a věřím, že pomůžou nastartovat Ústecký kraj.
 
 
-První devítka Pirátské kandidátky:
+**První devítka Pirátské kandidátky:**
 1. Karel Karika
 2. Kateřina Stojanová
 3. Vít Rous
