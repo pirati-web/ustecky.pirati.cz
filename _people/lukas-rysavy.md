@@ -16,7 +16,8 @@ profiles:
   github:                 
   facebook: 		  
   twitter: 		  
-  flickr:     		
+  flickr:  
+ordpks: 4
 ---
 
 Lukáš Ryšavý (*23. září 1997)
