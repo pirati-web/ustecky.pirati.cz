@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - pks
 img: people/lukas-rysavy.jpg   # 165 x 220
-description: Člen KS Ústecký kraj            	# kratký popis, max 160 znaků
+description: 3. místopředseda KS Ústecký kraj            	# kratký popis, max 160 znaků
 mail:
 - lukas.rysavy@pirati.cz
 mob:			  
