@@ -17,7 +17,7 @@ profiles:
   facebook: 		  
   twitter: 		  
   flickr: 
-ordpks: 3    		
+ordpks: 5    		
 ---
 
 Narodil jsem se v roce 1980 v Ústí nad Labem, kde žiji celý život vyjma období studia na vysoké škole v Praze. Profesně jsem výrazně spojen s neziskovým sektorem, kde jsem působil na různých pozicích zahrnujících přímou práci s dětmi a mládeží, koordinaci dobrovolníků, projektový management nebo finanční řízení. V současné době zastávám pozici ředitele a projektového manažera v neziskové organizaci působící v Ústeckém kraji. Ve městě Ústí nad Labem se podílím na komunitním plánování jako manažer koordinační skupiny pro seniory.
