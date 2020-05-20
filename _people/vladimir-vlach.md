@@ -20,11 +20,11 @@ profiles:
 ordpks: 1
 ---
 
-Ženatý 42 let, 4 děti, v Žatci od roku 2009.
+Jsem ženatý, je mi 42 let, máme 4 děti, jsem se v Žatci od roku 2009.
 
 Pracuji jako IT administrátor ve firmě ICZ a.s. od roku 2002.
 
-Narodil se jako druhý ze tří dětí v 3.prosince 1975 v Domažlicích a dětství jsem strávil v Dolní Kamenici. Po studiu SPŠ Elektrotechnické jsem odešel do Prahy na ČVUT, kterou jsem na jaře 1996 po třech semestrech opustil a začal pracovat u firmy Internet CZ, tehdy prvního komerčního poskytovatele internetu v Česku. V roce 2002 jsem poprvé a zatím naposledy změnil zaměstnavatele, od té doby jím je česká firma ICZ a.s. zabývající se převážně vývojem zakázkového softwaru a svěřenou správou IT systémů.
+Narodil jsem se jako druhý ze tří dětí v 3.prosince 1975 v Domažlicích a dětství jsem strávil v Dolní Kamenici. Po studiu SPŠ Elektrotechnické jsem odešel do Prahy na ČVUT, kterou jsem na jaře 1996 po třech semestrech opustil a začal pracovat u firmy Internet CZ, tehdy prvního komerčního poskytovatele internetu v Česku. V roce 2002 jsem poprvé a zatím naposledy změnil zaměstnavatele, od té doby jím je česká firma ICZ a.s. zabývající se převážně vývojem zakázkového softwaru a svěřenou správou IT systémů.
 
 V roce 2007 jsem se přistěhoval za budoucí manželkou do Staňkovic a o dva roky později jsme koupili dům v Podměstí. Společně vychováváme čtyři děti od šesti do jednadvaceti let.
 
