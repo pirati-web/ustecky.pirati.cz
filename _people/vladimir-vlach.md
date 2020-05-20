@@ -12,6 +12,7 @@ description: Předseda KS Ústecký kraj           	# kratký popis, max 160 zna
 mail:
 - vladimir.vlach@pirati.cz
 mob:	
+- 724429696
 profiles:
   github:
   facebook: 
