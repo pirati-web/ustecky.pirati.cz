@@ -19,10 +19,10 @@ Piráti si přitom obavy z doby po uhlí dobře uvědomují. Těžbu uhlí a jeh
 
 [V Ústeckém kraji je nejvíce exekucí v celé zemi, trpí tím i ekonomika - více v tomto článku](https://www.idnes.cz/usti/zpravy/exekuce-ustecky-kraj-ekonomka-zadluzeni-dluhova-past-mapa-exekuci-socialne-vyloucena-lokalita-exekut.A190221_459024_usti-zpravy_pakr)
 
-[NEJVĚTŠÍ ZNEČIŠŤOVATEL V ČESKU? BRUSEL UKÁZAL NA POČERADY - více v tomto článku](https://www.euro.cz/byznys/nejvetsi-znecistovatel-v-cesku-brusel-ukazal-na-pocerady)
+[Největší znečišťovatel v Česku? Brusel ukázal na Počerady - více v tomto článku](https://www.euro.cz/byznys/nejvetsi-znecistovatel-v-cesku-brusel-ukazal-na-pocerady)
 
-[Elektrárna Počerady předčasně zabije 111 lidí ročně a 1000 zasáhne nadlimitním spadem rtuti - více v tomto článku](https://www.greenpeace.org/czech/tiskova-zprava/4482/elektrarna-pocerady-predcasne-zabije-rocne-111-lidi-a-1000-zasahne-nadlimitnim-spadem-rtuti/)
+[Elektrárna Počerady předčasně zabije 111 lidí ročně - více v tomto článku](https://www.greenpeace.org/czech/tiskova-zprava/4482/elektrarna-pocerady-predcasne-zabije-rocne-111-lidi-a-1000-zasahne-nadlimitnim-spadem-rtuti/)
 
-[Smlouva o spolupráci Ústeckého kraje se Skupinou ČEZ pomáhá zlepšovat životní prostředí v regionu - více v tomto článku](https://www.kr-ustecky.cz/smlouva-o-spolupraci-usteckeho-kraje-se-skupinou-cez-pomaha-zlepsovat-zivotni-prostredi-v-regionu/d-1725870/p1=204698)
+[Smlouva o spolupráci Ústeckého kraje se Skupinou ČEZ - více v tomto článku](https://www.kr-ustecky.cz/smlouva-o-spolupraci-usteckeho-kraje-se-skupinou-cez-pomaha-zlepsovat-zivotni-prostredi-v-regionu/d-1725870/p1=204698)
 
 Důležitým aspektem je zejména podpora rekvalifikace, podpora podnikání a nově vznikajících firem, které budou zaměstnávat bývalé horníky, a investice do rozmanitosti hospodářství kraje. Tohoto procesu by se měla účastnit široká veřejnost, jíž se to týká. Uhelné a energetické komise zohledňují často pouze zájmy uhlobaronů a lobbistů, kteří v nich sedí, aniž by své kroky konzultovaly s místními obyvateli a spolky. S Piráty se právě proto budeme zasazovat o vznik samostatné pracovní skupiny k uhlí a energetice, v níž budou zastoupeni nejen kandidáti energetického průmyslu, ale i občané postižených obcí, neziskový sektor a experti ze sféry sociální, finanční, místního rozvoje a životního prostředí. Jedině tak můžeme Ústecký kraj dovést k environmentálně udržitelné ekonomice, která pamatovat i na ty nejchudší a bude budována “zdola”, od těch, kteří v kraji sami žijí a mají zájem na tom, aby byl krajem zdravým a moderním. 
