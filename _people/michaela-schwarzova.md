@@ -1,6 +1,6 @@
 ---
 uid: michaela.schwarzova
-name:     Michaela Schwarzová  	# běžně používáné jméno
+name:     Michaela Pelzmann Schwarzová  	# běžně používáné jméno
 titles:
   before:
   after:
