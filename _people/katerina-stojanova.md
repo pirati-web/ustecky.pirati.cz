@@ -6,8 +6,8 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - ulk
 img: people/katerina-stojanova.jpg   # 165 x 220
-description: studentka práv, 1. místopředsedkyně KS Ústecký kraj
-title: Předsedkyně MS
+description: 1. místopředsedkyně KS Ústecký kraj
+title: Kateřina Stojanová
 mail:
 - katerina.stojanova@pirati.cz
 profiles:
