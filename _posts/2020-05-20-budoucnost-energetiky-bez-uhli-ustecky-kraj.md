@@ -5,7 +5,7 @@ tags: energetika Ústecký Piráti
 layout: post
 title: Na cestě k šetrnému a modernímu rozvoji - Ústecký kraj se musí změnit.
 author: Kateřina Stojanová
-authoruid: katerina.stojanova
+authorId: katerina.stojanova
 image: posts/kour.jpg
 ---
 
