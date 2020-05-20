@@ -52,7 +52,7 @@ calendar:
 facebook:
   loadSDK: true
   profilePage: https://www.facebook.com/pirati.ulk/
-  profilePageName: Česká pirátská strana - Ústecký kraj
+  profilePageName: Piráti Ústecký kraj
   appId: 496346277123749
 
 twitter:
