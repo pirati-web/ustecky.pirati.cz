@@ -29,5 +29,7 @@ S takovou praxí se musíme jako civilizovaná společnost rozloučit. Pirátsk
 
 
 **Karel Karika** a **Vladimír Vlach**
+
 Pirátská strana
+
 Krajské sdružení Ústecký kraj
