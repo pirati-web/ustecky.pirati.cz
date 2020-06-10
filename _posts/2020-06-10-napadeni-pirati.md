@@ -21,7 +21,7 @@ Víme, že drtivá většina obyvatel se stejně jako my staví proti konceptům
 
 
 V Pirátské straně věříme, že cesta k eliminaci podobných problémů tkví v prevenci a osvětě proti předsudečné nenávisti a proti dezinformacím, které jsou spouštěčem většiny podobných útoků. Nejhorší reakcí na podobné chování je pasivita. 
- „Nehlásil jsem ten incident, protože je to boj s větrnými mlýny,“ říká sám napadený bojovník za práva Romů Jozef Miker. „Nedokážu ani spočítat, kolikrát jsem byl zbit za to, kdo jsem a co jsem. Je to jen administrativní zátěž, oni dostanou možná nějakou pokutu, ale já se zadostiučinění nedočkám. Zvykl jsem si na to.“
+„Nehlásil jsem ten incident, protože je to boj s větrnými mlýny,“ říká sám napadený bojovník za práva Romů Jozef Miker. „Nedokážu ani spočítat, kolikrát jsem byl zbit za to, kdo jsem a co jsem. Je to jen administrativní zátěž, oni dostanou možná nějakou pokutu, ale já se zadostiučinění nedočkám. Zvykl jsem si na to.“
  
  
 S takovou praxí se musíme jako civilizovaná společnost rozloučit. Pirátská trička všem všech barev pleti, vyznání, sexuální orientace a světového názoru!
