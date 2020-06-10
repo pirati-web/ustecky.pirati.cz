@@ -27,7 +27,7 @@ V Pirátské straně věříme, že cesta k eliminaci podobných problémů tk
 S takovou praxí se musíme jako civilizovaná společnost rozloučit. Pirátská trička všem všech barev pleti, vyznání, sexuální orientace a světového názoru!
 
 
-
+______________________________________________
 **Karel Karika** a **Vladimír Vlach**
 
 Pirátská strana
