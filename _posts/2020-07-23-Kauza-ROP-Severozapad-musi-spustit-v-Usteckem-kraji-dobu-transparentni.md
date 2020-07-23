@@ -6,7 +6,7 @@ layout: post
 title: Kauza ROP Severozápad musí spustit v Ústeckém kraji dobu transparentní.
 author: Kateřina Stojanová
 authorId: katerina.stojanova
-image: posts/tunel_usk.jpg
+image: posts/tunel_usk.png
 ---
 
 Hospodaření s evropskými dotacemi se v kontextu střetu zájmů premiéra Andreje Babiše stává v našich končinách často skloňovanou frází, díky čemuž se čím dál častěji otevírají debaty nad tím, jak rozdělování evropských dotací ošetřit tak, aby nedocházelo k jejich zneužívání nejrůznějšími prostředky i cestami. Jeden z nejznámějších politických skandálů, který se týká tentokrát netransparentního rozdělování těchto evropských dotací, je nechvalně spjat s naším krajem.
