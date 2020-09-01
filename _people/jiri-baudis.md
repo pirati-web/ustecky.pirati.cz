@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/jiri_baudis.jpg   # 165 x 220
-heroImg: https://upload.wikimedia.org/wikipedia/commons/0/04/Pohled_z_vyhl%C3%ADdky_Skály_na_Úst%C3%AD_nad_Labem%2C_05-2013.JPG
+heroImg: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pohled_z_vyhl%C3%ADdky_Skály_na_Úst%C3%AD_nad_Labem%2C_05-2013.JPG/1920px-Pohled_z_vyhl%C3%ADdky_Skály_na_Úst%C3%AD_nad_Labem%2C_05-2013.JPG
 description: Člen MS Ústí       	# kratký popis, max 160 znaků
 mail:
 - jiri.baudis@pirati.cz
