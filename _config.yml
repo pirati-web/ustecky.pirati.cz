@@ -114,14 +114,18 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
-      layout: "page"
-      rbar: "foto"
+      layout: "person"
+      rbar:
+        - profile
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "garant, program"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
 
