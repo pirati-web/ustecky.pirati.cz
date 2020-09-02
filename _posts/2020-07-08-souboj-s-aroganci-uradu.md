@@ -3,7 +3,7 @@ date: 2020-07-08
 category: blog
 tags: Tunel Ústí nad Labem 
 layout: post
-title: Souboj s arogancí úřadů a netransparentností: Pirátský zastupitel Lukáš Blažej vyhrál čtyřletý spor s městem Ústí nad Labem.
+title: Souboj s arogancí úřadů a netransparentností - Pirátský zastupitel Lukáš Blažej vyhrál čtyřletý spor s městem Ústí nad Labem
 author: Lukáš Blažej
 image: posts/Lukas_Blazej.png
 ---
