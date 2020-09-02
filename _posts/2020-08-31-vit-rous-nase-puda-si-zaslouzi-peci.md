@@ -3,7 +3,7 @@ date: 2020-08-31
 category: blog
 tags: Ekologie Příroda Půda Sucho Zemědělství  
 layout: post
-title: Vít Rous: NAŠE PŮDA SI ZASLOUŽÍ PÉČI
+title: Vít Rous - NAŠE PŮDA SI ZASLOUŽÍ PÉČI
 author: Vít Rous
 image: posts/Vit_Rous.png
 ---
