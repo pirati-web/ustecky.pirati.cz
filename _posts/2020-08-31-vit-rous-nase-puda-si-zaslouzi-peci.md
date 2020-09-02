@@ -7,6 +7,7 @@ title: Vít Rous: NAŠE PŮDA SI ZASLOUŽÍ PÉČI
 author: Vít Rous
 image: posts/Vit_Rous.png
 ---
+
 Investoři plánují na Teplicku a Mostecku další sklady a obce protestují.
 
 Další obří železobetonové haly by měly podle plánů investorů brzy vyrůst na Teplicku a Mostecku. V posledních letech si tento region investoři obřích skladů oblíbili. Obce i různé spolky jsou proti a bojí se nárůstu kamionové dopravy i zhoršení životního prostředí.
