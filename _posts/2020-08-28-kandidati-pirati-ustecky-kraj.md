@@ -5,7 +5,7 @@ tags: Program
 layout: post
 title: Do boje o lepší budoucnost Ústeckého kraje vysílají Piráti 60 kandidátů
 author: Piráti
-image: posts/KANDI_zbytek.png.png
+image: posts/KANDI_zbytek.png
 ---
 
 
