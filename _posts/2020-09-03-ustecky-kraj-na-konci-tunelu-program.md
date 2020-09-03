@@ -5,7 +5,7 @@ tags: Program
 layout: post
 title: ÚSTECKÝ KRAJ NA KONCI TUNELU. Piráti mají jasné programové priority
 author: Pirati
-image: posts/Program_priority.png
+image: posts/Program_prority.png
 ---
 
 PIRÁTI CHTĚJÍ…
