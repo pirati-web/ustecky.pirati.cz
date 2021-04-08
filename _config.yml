@@ -11,6 +11,9 @@ description: Prosazujeme fungující moderní politiku založenou na využití t
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 url: "https://ustecky.pirati.cz" # the base hostname & protocol for your site, e.g. http://example.com
 
+redirect_to:
+  - https://piratiuk.cz
+
 administrator:
   email: vaclav.zidek@pirati.cz # mail kam pujdou chybove vystupy
 
